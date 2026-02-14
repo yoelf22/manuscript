@@ -1,0 +1,36 @@
+@include "chapters/Front-matter.md"
+
+@include "chapters/Arc-I-Hardware-Challenges-Old-and-New.md"
+@include "chapters/Chapter-1-Why-is-Hardware-THAT-Hard.md"
+@include "chapters/Chapter-2-Hardware-startup-validation-traps.md"
+@include "chapters/Chapter-3-Digital-interface-Changing-the-rules-of-the-game.md"
+@include "chapters/Chapter-4-Product-Managers-in-the-Hardware-industry.md"
+@include "chapters/Chapter-5-the-evolving-competitive-challenges-for-Hardware-Products.md"
+
+@include "chapters/Arc-II-Validation-Cycles-and-Timing.md"
+@include "chapters/Chapter-6-Physical-Products-Early-Validation-is-Key.md"
+@include "chapters/Chapter-7-Validated-Ideation.md"
+@include "chapters/Chapter-8-Lean-hardware.md"
+@include "chapters/Chapter-9-Product-Valhalla-When-Service-Evolves-Into-Relationship.md"
+@include "chapters/Chapter-10-Derisking-physical-products.md"
+
+@include "chapters/Arc-III-Positioning-Perception-and-Product-Marketing.md"
+@include "chapters/Chapter-11-First-Impressions.md"
+@include "chapters/Chapter-12-Killer-Features.md"
+@include "chapters/Chapter-13-Can-Swatch-Outsmart-its-Nokia-Moment.md"
+
+@include "chapters/Arc-IV-Digital-Interfaces-Flexibility-and-Marketplaces.md"
+@include "chapters/Chapter-14-The-Machine-That-Goes-Ping.md"
+@include "chapters/Chapter-15-When-Software-Features-Outcompete-Physical-Products.md"
+@include "chapters/Chapter-16-Smart-AND-Secured-Think-Again.md"
+@include "chapters/Chapter-17-Smart-Product-Cyber-Threat-Mitigation..md"
+
+@include "chapters/Arc-V-Business-Models-AI-and-Long-Term-Moats.md"
+@include "chapters/Chapter-18-Smart-Business-Models-for-Smart-Tangibles.md"
+@include "chapters/Chapter-19-From-Recurring-Revenue-to-Customer-Loyalty-and-Beyond.md"
+@include "chapters/Chapter-20-Reviving-iRobot-Build-a-Marketplace.md"
+@include "chapters/Chapter-21-Smarting-Up-with-AI.md"
+
+@include "chapters/End-matter.md"
+@include "chapters/Additional-Case-Studies.md"
+@include "chapters/Conclusion.md"

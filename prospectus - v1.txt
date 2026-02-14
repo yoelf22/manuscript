@@ -1,0 +1,97 @@
+Yoel Frischoff
+yoel@theroadtlv.com
++972.54.626.6221
+27 August 2025
+
+
+Smart Tangibles
+Book Proposal
+Description
+Smart Tangibles is a strategy book about the rise of connected hardware products – physical goods that become platforms once enhanced with software, data, and cloud services. From watches and appliances to mobility and health devices, these products are transforming industries by creating new forms of value and customer loyalty long after the initial purchase.
+Drawing on over 30 years of experience in design, engineering, technology management, and product strategy, I offer a practical framework for navigating the complex intersection of hardware, software, and business models. 
+The book moves from the hard truths of hardware development, through the traps of validation and scaling for hardware products, to the emerging opportunities of digital interfaces, flexible software, cloud infrastructures, and marketplace ecosystems. 
+Case studies – from Swatch vs. Apple Watch to Nespresso, John Deere, and iRobot – illustrate how companies succeed or stumble when products “smarten up.”
+
+Distinctive Features
+•	Bridges the gap between hardware and software strategy.
+•	Grounded in professional practice with decades of experience.
+•	Introduces a unified framework linking technology, design, and business models.
+•	Includes rich case studies (Swatch, Nespresso, iRobot, John Deere, Tesla, and more).
+•	Focuses on long-term business model durability and customer loyalty.
+
+Comparable Titles
+ • Elaine Chen, Bringing a Hardware Product to Market (2015) – focuses on prototyping and scaling; Smart Tangibles extends into ecosystems and durable value.
+ • András Bence Kiss et al., The Lean Hardware Startup (2022) – emphasizes lean methods; my book situates these in a broader strategic framework.
+ • Jan Chipchase & Simon Steinhardt, Hidden in Plain Sight (2013) – centers on cultural research; my book bridges culture with strategy and economics.
+ • Claire Rowland et al., Designing Connected Products (2017) – emphasizes UX and IoT design; my book targets strategists and decision-makers.
+
+Overall Structure and TOC
+The book is organized into four arcs. 
+•	Chapters I–IV diagnose
+•	Chapters V–VIII focus on validation cycles and timing. 
+•	Chapters IX–XII examine digital interfaces, software flexibility, lean methods, and marketplaces (cases: iRobot, Nespresso). 
+•	The final chapters (XV–XVI) expand to business models and AI (cases: Swatch vs. Apple Watch, John Deere).
+
+Chapters and Takeaways
+1st Arc: The challenges of hardware and the role of product managers.
+•	Why is Hardware THAT Hard? Unpacks the structural challenges of hardware ventures — long lead times, capital intensity, and inflexible manufacturing — and shows why strategy must account for these constraints from the outset.
+•	Hardware Startups – Validation Traps Reveals how startups often misread prototypes and customer signals, and provides principles to avoid false validation that leads to wasted capital.
+•	Digital Interfaces – A Game Changer for Hardware Explains how embedding digital layers (apps, dashboards, connectivity) turns products into evolving platforms, expanding value far beyond their physical form.
+•	Product Managers in the Hardware Industry Defines the distinct role of product managers in hardware, contrasting it with software practices, and highlights the skills needed to bridge both worlds.
+2**nd Arc: Validation cycles and timing
+1.	Physical Products: Early Validation Is Key Shows why testing assumptions early is critical for reducing risk, saving cost, and aligning product features with customer needs before scaling.
+2.	Physical Products: Validated Ideation Provides methods for moving from idea to validated concept, emphasizing iterative learning to prevent costly dead ends.
+3.	The Power of Lean Hardware Product Management Adapts lean principles to hardware, offering tools to manage iteration and learning cycles even when physical production is slow and costly.
+4.	When Service Evolves Into Relationship Demonstrates how attaching services to products builds long-term customer loyalty, recurring revenue, and defensible ecosystems.
+5.	The Importance of Timely Validation Argues that validation must be carefully timed — too late, and risk escalates; too early, and signals are misleading — offering frameworks to strike the right balance.
+3**rd Arc: Examines digital interfaces, software flexibility, lean methods, and marketplaces (cases: iRobot, Nespresso)
+1.	The Machine That Goes PING – Communicating Product Value Shows how to communicate the worth of complex or opaque products to customers and stakeholders, making intangible value tangible.
+2.	The Inherent Advantage of Flexible Software Explains how software’s adaptability extends the life of hardware products, enabling continuous updates and resilience against obsolescence.
+3.	Reviving iRobot: Build a Marketplace Uses iRobot as a case study to demonstrate how building a marketplace around a product can generate new revenue streams and extend product relevance.
+4.	Security for Smart Products Connected devices introduce new vulnerabilities that can undermine customer trust and product adoption. This unit addresses both the risks and the strategies for mitigation, showing how security must be designed into smart products from the outset rather than added as an afterthought.
+1.	Smart and Secured – Think Again
+2.	Smart Product Cyber Threat Mitigation
+5.	Smart Business Models for Smart Tangibles Presents the business models — subscription, product-service systems, ecosystems — that make connected products economically sustainable.
+1.	Contribution Margin and Break Even Quantities
+2.	The Cost of Capital
+3.	NPV Profitability Assessment Done Right
+4.	From Recurring Revenue to Customer Loyalty and Beyond
+5.	A Case Study: Can Swatch Outsmart Its Nokia Moment?
+6.	Case Study: Reviving iRobot – Build a Marketplace
+6.	AI and Smart Tangibles – A Match Made in Hell or Heaven Explores how the promise of AI is yet to be fulfilled, in this risky domain. Will it enhance connected hardware by enabling personalization, prediction, and adaptive functionality that strengthen user relationships? Or will it burn millions on pipe-dreams?
+Audience 
+The book is intended for professionals – specifically entrepreneurs, startup founders, product managers, corporate innovation leads, and consultants working with connected hardware and IoT products. A secondary audience includes students in MBA programs with technology management concentrations, as well as graduate programs in design and engineering.
+The book sits at the intersection of business strategy, product management, and design/engineering practice. It is primarily descriptive and analytical, supported by case studies, frameworks, and financial models. The treatment is rigorous but accessible, written for practitioners who need strategic clarity and actionable tools rather than academic theory.
+No formal prerequisites are required. A general familiarity with business and product development concepts will be helpful, but no advanced mathematical or technical background is assumed.
+
+Author
+My name is Yoel Frischoff, a product strategist and practitioner with over 35 years of experience developing durable goods and software systems across domains such as healthcare, education, construction, security applications, and more.
+Trained as an industrial designer, I began my career in 1991 with hands-on design and engineering roles before transitioning into technology management, entrepreneurship, and management consulting.
+My work bridges strategic research and thesis development with commercial implementation, culminating in hands-on product development. This trajectory – spanning design, engineering, and product strategy – positions me to offer a professional yet accessible perspective on how physical products become viable smart platforms.
+Over the past decade I have published more than 120 bilingual (English and Hebrew) articles on TheRoad TLV blog, which serves as the foundation for this book. I am active on LinkedIn, where I manage a dedicated Smart Tangibles showcase page and professional group, and I mentor product managers through international programs such as Google for Startup, Product League, and hafla.org.
+
+Market Considerations
+The book will be purchased by entrepreneurs, product managers, corporate innovators, consultants, and graduate students who are directly engaged in the design and management of connected hardware products. These readers are seeking frameworks that bridge hardware and software, helping them avoid common pitfalls in validation and scaling, and guiding them toward sustainable business models.
+What differentiates Smart Tangibles is that it combines strategic frameworks, financial tools (contribution margin, cost of capital, NPV), and case studies into a single volume. Readers will gain practical methods for linking technological affordances with business strategy – insights not fully addressed in existing startup manuals or IoT design guides. This new information justifies the book’s value as both a reference work and a hands-on toolkit.
+The total addressable market includes:
+•	3,000–5,000 new hardware/IoT startups annually
+•	500+ Fortune 2000 companies with hardware product lines (each employing multiple product managers/innovation leads)
+•	200+ MBA and graduate programs in technology management, design, and engineering
+•	Thousands of consultants and advisors focused on digital transformation of durable goods
+Together, these segments represent a yearly addressable market of tens of thousands of professionals and students worldwide.
+
+Useful professional networks and channels for promotion include:
+•	Product Development and Management Association (PDMA)
+•	Industrial Designers Society of America (IDSA)
+•	Institute of Electrical and Electronics Engineers (IEEE) IoT community
+•	International Association of Product Marketing & Management (IAPMM)
+•	Social networks professional groups dedicated to product management, IoT, and digital transformation
+
+Length, Illustrations, and Schedule
+Projected length: 50,000–70,000 words. Current draft: ~32,000 words. Planned additions: 5–10 case studies (~1,500 words each) with 2–3 illustrations each. The book will feature ~35–50 figures. Full manuscript delivery is anticipated within 6 months of contract.
+
+Apparatus
+The book will include endnotes, references, and a bibliography. Visual apparatus will consist of charts, diagrams, Excel templates, and will be hosted on a companion website that will extend the book with app snippets, demos, calculators, and expanded case study material, ensuring it functions both as a professional guide and a practical toolkit.
+
+Status
+The manuscript is based on a two-year blog series and is now under initial editing. A detailed description and table of contents are available at: theroadtlv.com/post/smart-tangibles. Substantial chapters are already drafted (~32,000 words), with additional case studies in development.

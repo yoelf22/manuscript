@@ -3,7 +3,7 @@
 **The Smaller The Package, The Better The Product**
 
 ![Smart Tangibles: Capabilities and Revenue Streams](../images/fig00-00-capabilities-revenue.jpg)
-*Arc II layer model: This chapter addresses the **Physical Product** layer — power is the most fundamental hardware constraint, determining which digital, connectivity, and intelligence capabilities are reachable.*
+*Arc II layer model: This chapter addresses the **Physical Product** layer — miniaturization is the cross-cutting enabler that determines which digital, connectivity, and intelligence capabilities can physically fit inside a product.*
 
 Envious of Marie-Antoinette's fabulous watch — 40 years in the making, and a marvel of micro-mechanics — Napoleon Bonaparte commissioned an "electric wristwatch" to seal his legacy as a patron of the sciences.
 
@@ -16,17 +16,11 @@ The project was discontinued.
 
 <img src="../images/Pila_di_Volta.jpg" alt="Volta's Electric Pile" style="height: 500px;">
 
-***Figure 7.2  — Alessandro Volta’s electric pile (ca. 1800). Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pila_di_Volta.jpg).**
+***Figure 7.1 — Alessandro Volta's electric pile (ca. 1800). Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pila_di_Volta.jpg).***
 
-> Beneath the engineering humor lies a real hardware truth: ambition is cheap, but physics rarely bends.
->
-> The joke also points to a practical reality: **Miniaturization** is the art of making the impossible possible – shrinking ridiculously large components to fit into ever-smaller form factors. It is the great enabler of ubiquitous computing and the smart objects that embody it, because the core challenge of any smart product is cramming compute, communication, power management, and sensing into a confined space.
->
-> And here's the paradox: as technology grows more powerful, it must also shrink — to satisfy our insatiable demand for ever more capability in ever less space.
->
-> ---
->
-> \- From room-sized computers to computers in every room
+The paradox of hardware progress: as technology grows more powerful, it must also shrink. Every smart product is an exercise in cramming compute, communication, power, and sensing into a space where none of them comfortably fit.
+
+This chapter maps the five fronts on which that battle is fought — and goes deep on the two that have no other home in this book: power and manufacturing.
 
 ## 7.1 — The Arc of Shrinking
 
@@ -84,11 +78,44 @@ Battery chemistry is only half the story. The other half is how little power the
 - **Sleep-mode revolution:** From milliamps to microamps — a 1,000× reduction in idle draw
 - **Duty cycling:** Devices awake for milliseconds per hour, sleeping 99.99% of the time
 - **The math that makes smart tangibles viable:** 225 mAh coin cell ÷ 5 µA sleep draw = 5+ years
-- **Energy harvesting:** Solar, kinetic, thermal, RF — when the environment provides enough to top up a frugal device
 
 **Case study: Apple Watch** — 18-hour battery life from a 1.1 Wh cell powering an always-on display, cellular radio, and health sensors. Where the power budget actually goes.
 
-### 7.3.4 — Chemistry, Reusability, and the Product Lifecycle
+### 7.3.4 — Energy Harvesting: When the Environment Is the Battery
+
+If devices need only microwatts, can the environment supply them directly? Sometimes yes — and three harvesting sources have proven viable at device scale.
+
+**Photovoltaic — light as power:**
+- **Citizen Eco-Drive (1995):** Solar cells hidden *under* a translucent watch dial — harvesting enough to run indefinitely. 30+ years of production; the concept works.
+- **Casio Tough Solar / Garmin Instinct Solar:** Solar cells in bezels and dials — extending battery life 50–100% outdoors, or running indefinitely with modest functionality
+- **Indoor photovoltaics:** ~10 µW/cm² indoors vs. ~10 mW/cm² outdoors — a 1,000× gap. Works for ultra-low-power sensors, not for anything with a frequently transmitting radio
+- **The design trade-off:** Dial area for solar cells competes with display area. Garmin uses the bezel ring; Citizen made the entire dial a solar cell. Both are design compromises.
+
+**Kinetic / vibration — motion as power:**
+- **The automatic watch precedent:** Self-winding watches have harvested wrist motion since the 1770s (Perrelet). The concept is centuries old — only the application to electronics is new.
+- **Seiko Kinetic (1988):** Oscillating weight spinning a micro-generator to charge a capacitor — bridging mechanical and electronic watchmaking
+- **Industrial IoT vibration harvesters:** Sensors mounted on motors, pumps, compressors — harvesting the very vibrations they're measuring. Maintenance-free sensor nodes for factory equipment (Perpetua, EnOcean)
+- **The math:** Wrist motion yields ~5–10 µW. Machine vibration can yield 100+ µW. Enough for periodic BLE broadcasts, not enough for continuous sensing or WiFi.
+
+**Thermoelectric (Seebeck effect) — heat differential as power:**
+- **The principle:** A temperature difference across two dissimilar conductors generates voltage. Body at 37°C vs. ambient at 22°C = a 15°C differential.
+- **Matrix PowerWatch (2017):** A smartwatch powered entirely by body heat — thermoelectric generators on the caseback. It worked, but the power budget was severely constrained (no color display, limited features).
+- **Industrial application:** Sensors on hot pipes, steam lines, engine housings — harvesting the waste heat they're monitoring. The thing being measured *is* the power source.
+- **The brutal constraint:** You need a *differential*, not just heat. A device at thermal equilibrium with its environment harvests nothing. Conversion efficiency is low — typically 1–5% of the Carnot limit at small scale.
+
+**The product manager's reality check:**
+
+| Source | Typical Power (miniature device) | Enough For |
+|---|---|---|
+| Indoor light (few cm²) | ~10 µW | Periodic sensor reading, e-ink display |
+| Outdoor light (few cm²) | ~1–10 mW | Watch, simple tracker, trickle-charge buffer |
+| Wrist motion | ~5–10 µW | Supplement a coin cell, not replace it |
+| Machine vibration | ~100–500 µW | Periodic BLE sensor broadcasts |
+| Body heat (wrist) | ~20–50 µW | Ultra-low-power watch with constraints |
+
+**The key insight:** Energy harvesting doesn't eliminate batteries — it extends them, or replaces them *only* when the power budget is in the microwatt range. It works when paired with the duty-cycling and sleep-mode advances above. A device that sleeps at 2 µA and wakes for 5 ms every hour can run on harvested vibration alone. A device that streams data over WiFi cannot.
+
+### 7.3.5 — Chemistry, Reusability, and the Product Lifecycle
 
 Chemistry choice is a *strategic* decision that cascades into user experience, business model, regulatory compliance, and sustainability.
 
@@ -115,7 +142,7 @@ Chemistry choice is a *strategic* decision that cascades into user experience, b
 - Second-life batteries (EV packs → grid storage) — an emerging circular economy
 - The smart tangibles e-waste problem: billions of IoT devices with tiny batteries that nobody recycles
 
-### 7.3.5 — What's Next: Solid-State and Beyond
+### 7.3.6 — What's Next: Solid-State and Beyond
 
 - Solid-state batteries: higher density, safer chemistry, longer cycle life, potentially easier recycling — Toyota, Samsung SDI, QuantumScape
 - Micro-batteries for medical implants and smart labels
