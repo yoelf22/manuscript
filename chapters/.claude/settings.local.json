@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc:*)",
+      "Bash(ls:*)",
+      "Bash(quarto render:*)",
+      "Bash(for f in Chapter-*.qmd)",
+      "Bash(do echo \"Rendering $f...\")",
+      "Bash(done)",
+      "Bash(docker info:*)",
+      "Bash(docker pull:*)",
+      "Bash(curl:*)",
+      "Bash(docker logs:*)",
+      "Bash(docker exec:*)",
+      "Bash(docker port:*)",
+      "Bash(docker stop:*)",
+      "Bash(docker rm:*)",
+      "Bash(docker run:*)",
+      "Bash(brew uninstall:*)",
+      "WebSearch",
+      "Bash(chmod:*)",
+      "Bash(source ~/.zshrc)",
+      "Bash(python3:*)",
+      "Bash(diff:*)",
+      "Bash(unzip:*)",
+      "Bash(grep:*)",
+      "Bash(fi:*)",
+      "Bash(while IFS=: read -r line_num content)",
+      "Bash(do echo \"Line $line_num: $content\")",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nUpdate fig_names.md with complete figure reference for all 265 figures\n\nRegenerated from current chapter content after figure captioning and\nchapter renumbering. Adds attribution column, semantic filenames, and\nchapter links. Covers all 21 chapters with images \\(Ch 0-6, 10-13,\n15-20, 22-25\\).\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "clean-cut-mcp"
+  ]
+}
