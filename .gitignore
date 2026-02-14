@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/
+.mcp.json
+
+# Archives
+*.zip
+
+# Temp files
+temp_*.csv
+
+# OS
+.DS_Store
