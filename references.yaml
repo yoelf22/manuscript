@@ -38,8 +38,8 @@ references:
     url: "https://www.wsj.com/articles/SB10001424053111903480904576512250915629460"
     clean_url: "https://www.wsj.com/articles/SB10001424053111903480904576512250915629460"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260130040329/https://www.wsj.com/articles/SB10001424053111903480904576512250915629460"
+    archive_date: "2026-01-30"
     access_date: null
     license: null
     context: inline
@@ -92,8 +92,8 @@ references:
     url: "https://iot-analytics.com/number-connected-iot-devices/"
     clean_url: "https://iot-analytics.com/number-connected-iot-devices/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260122080049/https://iot-analytics.com/number-connected-iot-devices/"
+    archive_date: "2026-01-22"
     access_date: null
     license: null
     context: figure-caption
@@ -128,8 +128,8 @@ references:
     url: "https://www.cbinsights.com/research/report/hardware-startups-failure-success/"
     clean_url: "https://www.cbinsights.com/research/report/hardware-startups-failure-success/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260131112448/https://www.cbinsights.com/research/report/hardware-startups-failure-success/"
+    archive_date: "2026-01-31"
     access_date: null
     license: null
     context: inline
@@ -164,8 +164,8 @@ references:
     url: "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html"
     clean_url: "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260210195207/https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html"
+    archive_date: "2026-02-10"
     access_date: null
     license: null
     context: inline
@@ -200,8 +200,8 @@ references:
     url: "https://www.equidam.com/average-growth-rate-for-startups/"
     clean_url: "https://www.equidam.com/average-growth-rate-for-startups/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260108090341/https://www.equidam.com/average-growth-rate-for-startups/"
+    archive_date: "2026-01-08"
     access_date: null
     license: null
     context: figure-caption
@@ -218,8 +218,8 @@ references:
     url: "https://www.caranddriver.com/news/a15350381/how-a-car-is-made-every-step-from-invention-to-launch/"
     clean_url: "https://www.caranddriver.com/news/a15350381/how-a-car-is-made-every-step-from-invention-to-launch/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251219222050/https://www.caranddriver.com/news/a15350381/how-a-car-is-made-every-step-from-invention-to-launch/"
+    archive_date: "2025-12-19"
     access_date: null
     license: null
     context: inline
@@ -236,8 +236,8 @@ references:
     url: "https://csa-iot.org/all-solutions/matter/"
     clean_url: "https://csa-iot.org/all-solutions/matter/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260127095411/https://csa-iot.org/all-solutions/matter/"
+    archive_date: "2026-01-27"
     access_date: null
     license: null
     context: inline
@@ -272,8 +272,8 @@ references:
     url: "https://standards.ieee.org/ieee/802.15.4z/10230/"
     clean_url: "https://standards.ieee.org/ieee/802.15.4z/10230/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251208074231/https://standards.ieee.org/ieee/802.15.4z/10230/"
+    archive_date: "2025-12-08"
     access_date: null
     license: null
     context: inline
@@ -290,8 +290,8 @@ references:
     url: "https://trustedcomputinggroup.org/resource/tpm-library-specification/"
     clean_url: "https://trustedcomputinggroup.org/resource/tpm-library-specification/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260123061956/https://trustedcomputinggroup.org/resource/tpm-library-specification/"
+    archive_date: "2026-01-23"
     access_date: null
     license: null
     context: inline
@@ -308,8 +308,8 @@ references:
     url: "https://developers.google.com/coral"
     clean_url: "https://developers.google.com/coral"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260117002538/https://developers.google.com/coral"
+    archive_date: "2026-01-17"
     access_date: null
     license: null
     context: inline
@@ -326,8 +326,8 @@ references:
     url: "https://github.com/google-coral/coralnpu"
     clean_url: "https://github.com/google-coral/coralnpu"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251222055631/https://github.com/google-coral/coralnpu"
+    archive_date: "2025-12-22"
     access_date: null
     license: null
     context: inline
@@ -344,8 +344,8 @@ references:
     url: "https://newsroom.st.com/media-center/press-item.html/p4733.html"
     clean_url: "https://newsroom.st.com/media-center/press-item.html/p4733.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260218185215/https://newsroom.st.com/media-center/press-item.html/p4733.html"
+    archive_date: "2026-02-18"
     access_date: null
     license: null
     context: inline
@@ -362,8 +362,8 @@ references:
     url: "https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55"
     clean_url: "https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251211031842/https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55"
+    archive_date: "2025-12-11"
     access_date: null
     license: null
     context: inline
@@ -416,8 +416,8 @@ references:
     url: "https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards"
     clean_url: "https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260126014423/https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards"
+    archive_date: "2026-01-26"
     access_date: null
     license: null
     context: inline
@@ -434,8 +434,8 @@ references:
     url: "https://www.3gpp.org/news-events/3gpp-news/nb-iot-complete"
     clean_url: "https://www.3gpp.org/news-events/3gpp-news/nb-iot-complete"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251007030915/https://www.3gpp.org/news-events/3gpp-news/nb-iot-complete"
+    archive_date: "2025-10-07"
     access_date: null
     license: null
     context: inline
@@ -452,8 +452,8 @@ references:
     url: "https://www.mediatek.com/products/smartphones/mediatek-dimensity-9500"
     clean_url: "https://www.mediatek.com/products/smartphones/mediatek-dimensity-9500"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260114072337/https://www.mediatek.com/products/smartphones/mediatek-dimensity-9500"
+    archive_date: "2026-01-14"
     access_date: null
     license: null
     context: inline
@@ -470,8 +470,8 @@ references:
     url: "https://www.nvidia.com/en-us/omniverse/"
     clean_url: "https://www.nvidia.com/en-us/omniverse/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260122071413/https://www.nvidia.com/en-us/omniverse/"
+    archive_date: "2026-01-22"
     access_date: null
     license: null
     context: inline
@@ -488,8 +488,8 @@ references:
     url: "https://www.infineon.com/promo/next-generation-mcu"
     clean_url: "https://www.infineon.com/promo/next-generation-mcu"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251213122900/https://www.infineon.com/promo/next-generation-mcu"
+    archive_date: "2025-12-13"
     access_date: null
     license: null
     context: inline
@@ -506,8 +506,8 @@ references:
     url: "https://www.psacertified.org/"
     clean_url: "https://www.psacertified.org/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260108120308/https://www.psacertified.org/"
+    archive_date: "2026-01-08"
     access_date: null
     license: null
     context: inline
@@ -542,8 +542,8 @@ references:
     url: "https://www.iso.org/standard/80138.html"
     clean_url: "https://www.iso.org/standard/80138.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251128115030/https://www.iso.org/standard/80138.html"
+    archive_date: "2025-11-28"
     access_date: null
     license: null
     context: inline
@@ -560,8 +560,8 @@ references:
     url: "https://www.etsi.org/technologies/consumer-iot-security"
     clean_url: "https://www.etsi.org/technologies/consumer-iot-security"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260112084158/https://www.etsi.org/technologies/consumer-iot-security"
+    archive_date: "2026-01-12"
     access_date: null
     license: null
     context: inline
@@ -578,8 +578,8 @@ references:
     url: "https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red_en"
     clean_url: "https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red_en"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260219231049/https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red_en"
+    archive_date: "2026-02-19"
     access_date: null
     license: null
     context: inline
@@ -596,8 +596,8 @@ references:
     url: "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act"
     clean_url: "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260220092149/https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act"
+    archive_date: "2026-02-20"
     access_date: null
     license: null
     context: inline
@@ -614,8 +614,8 @@ references:
     url: "https://blog.st.com/stm32n6/"
     clean_url: "https://blog.st.com/stm32n6/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260104021752/https://blog.st.com/stm32n6/"
+    archive_date: "2026-01-04"
     access_date: null
     license: null
     context: inline
@@ -632,8 +632,8 @@ references:
     url: "https://developers.google.com/coral"
     clean_url: "https://developers.google.com/coral"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260117002538/https://developers.google.com/coral"
+    archive_date: "2026-01-17"
     access_date: null
     license: null
     context: inline
@@ -650,8 +650,8 @@ references:
     url: "https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/"
     clean_url: "https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260206114520/https://developer.nvidia.com/blog/introducing-nvidia-jetson-thor-the-ultimate-platform-for-physical-ai/"
+    archive_date: "2026-02-06"
     access_date: null
     license: null
     context: inline
@@ -668,8 +668,8 @@ references:
     url: "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
     clean_url: "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260128215631/https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+    archive_date: "2026-01-28"
     access_date: null
     license: null
     context: inline
@@ -686,8 +686,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Solenoid_Valve_Open.png"
     clean_url: "https://commons.wikimedia.org/wiki/File:Solenoid_Valve_Open.png"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251126192724/https://commons.wikimedia.org/wiki/File:Solenoid_Valve_Open.png"
+    archive_date: "2025-11-26"
     access_date: null
     license: null
     context: figure-caption
@@ -722,8 +722,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Nest_Learning_Thermostat_(cropped).JPG"
     clean_url: "https://commons.wikimedia.org/wiki/File:Nest_Learning_Thermostat_(cropped).JPG"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251129074123/https://commons.wikimedia.org/wiki/File:Nest_Learning_Thermostat_(cropped).JPG"
+    archive_date: "2025-11-29"
     access_date: null
     license: null
     context: figure-caption
@@ -740,8 +740,8 @@ references:
     url: "https://www.cargroup.org/automotive-product-development-cycles-and-the-need-for-balance-with-the-regulatory-environment/"
     clean_url: "https://www.cargroup.org/automotive-product-development-cycles-and-the-need-for-balance-with-the-regulatory-environment/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251007120925/https://www.cargroup.org/automotive-product-development-cycles-and-the-need-for-balance-with-the-regulatory-environment/"
+    archive_date: "2025-10-07"
     access_date: null
     license: null
     context: inline
@@ -758,8 +758,8 @@ references:
     url: "https://www.autoblog.com/2010/07/27/why-does-it-cost-so-much-for-automakers-to-develop-new-models/"
     clean_url: "https://www.autoblog.com/2010/07/27/why-does-it-cost-so-much-for-automakers-to-develop-new-models/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20240620150005/https://www.autoblog.com/2010/07/27/why-does-it-cost-so-much-for-automakers-to-develop-new-models/"
+    archive_date: "2024-06-20"
     access_date: null
     license: null
     context: inline
@@ -794,8 +794,8 @@ references:
     url: "https://gunshowcomic.com/513"
     clean_url: "https://gunshowcomic.com/513"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251229050509/https://gunshowcomic.com/513"
+    archive_date: "2025-12-29"
     access_date: null
     license: null
     context: figure-caption
@@ -848,8 +848,8 @@ references:
     url: "https://www.facebook.com/reizigersov/posts/1079652722052431"
     clean_url: "https://www.facebook.com/reizigersov/posts/1079652722052431"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20180426131331/https://www.facebook.com/reizigersov/posts/1079652722052431"
+    archive_date: "2018-04-26"
     access_date: null
     license: null
     context: figure-caption
@@ -920,8 +920,8 @@ references:
     url: "https://macdailynews.com/2008/05/01/apple_last_quarters_mac_sales_were_driven_primarily_by_sales_of_macbook_air/"
     clean_url: "https://macdailynews.com/2008/05/01/apple_last_quarters_mac_sales_were_driven_primarily_by_sales_of_macbook_air/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20190101021947/http://macdailynews.com/2008/05/01/apple_last_quarters_mac_sales_were_driven_primarily_by_sales_of_macbook_air/"
+    archive_date: "2019-01-01"
     access_date: null
     license: null
     context: inline
@@ -938,8 +938,8 @@ references:
     url: "https://www.youtube.com/watch?v=dwfaCpWe0zY"
     clean_url: "https://www.youtube.com/watch?v=dwfaCpWe0zY"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250928050643/https://www.youtube.com/watch?v=dwfaCpWe0zY"
+    archive_date: "2025-09-28"
     access_date: null
     license: null
     context: inline
@@ -974,8 +974,8 @@ references:
     url: "https://www.youtube.com/watch?v=MIAjIkknlfc"
     clean_url: "https://www.youtube.com/watch?v=MIAjIkknlfc"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250826220253/https://www.youtube.com/watch?v=MIAjIkknlfc"
+    archive_date: "2025-08-26"
     access_date: null
     license: null
     context: figure-caption
@@ -992,8 +992,8 @@ references:
     url: "https://www.merriam-webster.com/dictionary/killer%20app"
     clean_url: "https://www.merriam-webster.com/dictionary/killer%20app"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260218082428/https://www.merriam-webster.com/dictionary/killer%20app"
+    archive_date: "2026-02-18"
     access_date: null
     license: null
     context: figure-caption
@@ -1010,8 +1010,8 @@ references:
     url: "https://creativecommons.org/licenses/by-sa/2.0/"
     clean_url: "https://creativecommons.org/licenses/by-sa/2.0/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260128215415/https://creativecommons.org/licenses/by-sa/2.0/"
+    archive_date: "2026-01-28"
     access_date: null
     license: null
     context: figure-caption
@@ -1028,8 +1028,8 @@ references:
     url: "https://www.flickr.com/photos/jean-ed/1661870646/"
     clean_url: "https://www.flickr.com/photos/jean-ed/1661870646/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260102155734/https://www.flickr.com/photos/jean-ed/1661870646/"
+    archive_date: "2026-01-02"
     access_date: null
     license: null
     context: figure-caption
@@ -1046,8 +1046,8 @@ references:
     url: "http://www2.iee.or.jp/ver2/honbu/30-foundation/data02/ishi-03/ishi-0405.pdf"
     clean_url: "http://www2.iee.or.jp/ver2/honbu/30-foundation/data02/ishi-03/ishi-0405.pdf"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20211110112627/http://www2.iee.or.jp/ver2/honbu/30-foundation/data02/ishi-03/ishi-0405.pdf"
+    archive_date: "2021-11-10"
     access_date: null
     license: null
     context: figure-caption
@@ -1064,8 +1064,8 @@ references:
     url: "http://sony.net/"
     clean_url: "http://sony.net/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250424172048/https://www.sony.net/"
+    archive_date: "2025-04-24"
     access_date: null
     license: null
     context: inline
@@ -1082,8 +1082,8 @@ references:
     url: "https://web.archive.org/"
     clean_url: "https://web.archive.org/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260220092412/https://web.archive.org/"
+    archive_date: "2026-02-20"
     access_date: null
     license: null
     context: inline
@@ -1136,8 +1136,8 @@ references:
     url: "https://www.smithsonianmag.com/history/what-reviewers-said-about-first-mac-when-it-debuted-180949448/"
     clean_url: "https://www.smithsonianmag.com/history/what-reviewers-said-about-first-mac-when-it-debuted-180949448/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250118203710/https://www.smithsonianmag.com/history/what-reviewers-said-about-first-mac-when-it-debuted-180949448/"
+    archive_date: "2025-01-18"
     access_date: null
     license: null
     context: figure-caption
@@ -1172,8 +1172,8 @@ references:
     url: "https://commons.wikimedia.org/w/index.php?curid=66714"
     clean_url: "https://commons.wikimedia.org/w/index.php?curid=66714"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251230151954/https://commons.wikimedia.org/w/index.php?curid=66714"
+    archive_date: "2025-12-30"
     access_date: null
     license: null
     context: figure-caption
@@ -1226,8 +1226,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:IPhone_First_Generation.jpg"
     clean_url: "https://commons.wikimedia.org/wiki/File:IPhone_First_Generation.jpg"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251112064653/https://commons.wikimedia.org/wiki/File:IPhone_First_Generation.jpg"
+    archive_date: "2025-11-12"
     access_date: null
     license: null
     context: figure-caption
@@ -1244,8 +1244,8 @@ references:
     url: "https://patents.google.com/patent/US7479949B2/en"
     clean_url: "https://patents.google.com/patent/US7479949B2/en"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251116030643/https://patents.google.com/patent/US7479949B2/en"
+    archive_date: "2025-11-16"
     access_date: null
     license: null
     context: inline
@@ -1262,8 +1262,8 @@ references:
     url: "https://patents.google.com/patent/US7657849B2/en"
     clean_url: "https://patents.google.com/patent/US7657849B2/en"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251226020154/https://patents.google.com/patent/US7657849B2/en"
+    archive_date: "2025-12-26"
     access_date: null
     license: null
     context: inline
@@ -1298,8 +1298,8 @@ references:
     url: "https://patents.google.com/patent/US7812828B2/en"
     clean_url: "https://patents.google.com/patent/US7812828B2/en"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20241110220646/https://patents.google.com/patent/US7812828B2/en"
+    archive_date: "2024-11-10"
     access_date: null
     license: null
     context: inline
@@ -1316,8 +1316,8 @@ references:
     url: "https://upload.wikimedia.org/wikipedia/commons/0/02/Wap-wikipedia-en.png"
     clean_url: "https://upload.wikimedia.org/wikipedia/commons/0/02/Wap-wikipedia-en.png"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260127062647/https://upload.wikimedia.org/wikipedia/commons/0/02/Wap-wikipedia-en.png"
+    archive_date: "2026-01-27"
     access_date: null
     license: null
     context: figure-caption
@@ -1334,8 +1334,8 @@ references:
     url: "https://www.stuff.co.nz/motoring/top-cars/98426802/the-top-car-technology-of-2017"
     clean_url: "https://www.stuff.co.nz/motoring/top-cars/98426802/the-top-car-technology-of-2017"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20181124160033/https://www.stuff.co.nz/motoring/top-cars/98426802/The-Top-Car-Technology-of-2017"
+    archive_date: "2018-11-24"
     access_date: null
     license: null
     context: figure-caption
@@ -1370,8 +1370,8 @@ references:
     url: "https://www.washingtonpost.com/news/innovations/wp/2017/09/11/as-hurricane-irma-bore-down-tesla-gave-some-florida-drivers-more-battery-juice-heres-why-thats-a-big-deal/"
     clean_url: "https://www.washingtonpost.com/news/innovations/wp/2017/09/11/as-hurricane-irma-bore-down-tesla-gave-some-florida-drivers-more-battery-juice-heres-why-thats-a-big-deal/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20230201185509/https://www.washingtonpost.com/news/innovations/wp/2017/09/11/as-hurricane-irma-bore-down-tesla-gave-some-florida-drivers-more-battery-juice-heres-why-thats-a-big-deal/"
+    archive_date: "2023-02-01"
     access_date: null
     license: null
     context: inline
@@ -1388,8 +1388,8 @@ references:
     url: "https://www.washingtonpost.com/technology/2021/05/14/tesla-apple-tech/"
     clean_url: "https://www.washingtonpost.com/technology/2021/05/14/tesla-apple-tech/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20230803084303/https://www.washingtonpost.com/technology/2021/05/14/tesla-apple-tech/"
+    archive_date: "2023-08-03"
     access_date: null
     license: null
     context: inline
@@ -1406,8 +1406,8 @@ references:
     url: "https://swatchprototypes.com/"
     clean_url: "https://swatchprototypes.com/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251231211214/https://swatchprototypes.com/"
+    archive_date: "2025-12-31"
     access_date: null
     license: null
     context: figure-caption
@@ -1442,8 +1442,8 @@ references:
     url: "https://www.speakersconnect.com/rasmus-ankersens-new-keynote-create-hunger-paradise/"
     clean_url: "https://www.speakersconnect.com/rasmus-ankersens-new-keynote-create-hunger-paradise/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20240525030607/https://www.speakersconnect.com/rasmus-ankersens-new-keynote-create-hunger-paradise/"
+    archive_date: "2024-05-25"
     access_date: null
     license: null
     context: inline
@@ -1460,8 +1460,8 @@ references:
     url: "https://hamariweb.com"
     clean_url: "https://hamariweb.com"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260128173946/http://hamariweb.com/"
+    archive_date: "2026-01-28"
     access_date: null
     license: null
     context: figure-caption
@@ -1496,8 +1496,8 @@ references:
     url: "https://www.hodinkee.com/articles/us-smartwatch-sales-are-soaring-2019"
     clean_url: "https://www.hodinkee.com/articles/us-smartwatch-sales-are-soaring-2019"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260118071810/https://www.hodinkee.com/articles/us-smartwatch-sales-are-soaring-2019"
+    archive_date: "2026-01-18"
     access_date: null
     license: null
     context: figure-caption
@@ -1514,8 +1514,8 @@ references:
     url: "https://www.ft.com/content/f3ca259a-56ff-47d9-8c1b-1ff22243ecd7"
     clean_url: "https://www.ft.com/content/f3ca259a-56ff-47d9-8c1b-1ff22243ecd7"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250723013207/https://www.ft.com/content/f3ca259a-56ff-47d9-8c1b-1ff22243ecd7"
+    archive_date: "2025-07-23"
     access_date: null
     license: null
     context: inline
@@ -1532,8 +1532,8 @@ references:
     url: "https://app--swatch-time-weaver-fe936e40.base44.app/"
     clean_url: "https://app--swatch-time-weaver-fe936e40.base44.app/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250722144808/https://app--swatch-time-weaver-fe936e40.base44.app/"
+    archive_date: "2025-07-22"
     access_date: null
     license: null
     context: inline
@@ -1550,8 +1550,8 @@ references:
     url: "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/"
     clean_url: "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260112015625/https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/"
+    archive_date: "2026-01-12"
     access_date: null
     license: null
     context: html-comment
@@ -1586,8 +1586,8 @@ references:
     url: "https://talsem.com/blogs/tesla-tips/understanding-tesla-phone-key-functionality"
     clean_url: "https://talsem.com/blogs/tesla-tips/understanding-tesla-phone-key-functionality"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251006160947/https://talsem.com/blogs/tesla-tips/understanding-tesla-phone-key-functionality"
+    archive_date: "2025-10-06"
     access_date: null
     license: null
     context: figure-caption
@@ -1622,8 +1622,8 @@ references:
     url: "https://www.theroadtlv.com/post/product-management-for-the-physical-world-series"
     clean_url: "https://www.theroadtlv.com/post/product-management-for-the-physical-world-series"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251211181023/https://www.theroadtlv.com/post/product-management-for-the-physical-world-series"
+    archive_date: "2025-12-11"
     access_date: null
     license: null
     context: further-reading
@@ -1640,8 +1640,8 @@ references:
     url: "https://www.theroadtlv.com/post/smart-tangibles"
     clean_url: "https://www.theroadtlv.com/post/smart-tangibles"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251111145507/https://www.theroadtlv.com/post/smart-tangibles"
+    archive_date: "2025-11-11"
     access_date: null
     license: null
     context: inline
@@ -1658,8 +1658,8 @@ references:
     url: "https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
     clean_url: "https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260127193623/https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
+    archive_date: "2026-01-27"
     access_date: null
     license: null
     context: further-reading
@@ -1676,8 +1676,8 @@ references:
     url: "https://portswigger.net/daily-swig/iot-protocols-are-leaking-data-like-sieves"
     clean_url: "https://portswigger.net/daily-swig/iot-protocols-are-leaking-data-like-sieves"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250918004249/https://portswigger.net/daily-swig/iot-protocols-are-leaking-data-like-sieves"
+    archive_date: "2025-09-18"
     access_date: null
     license: null
     context: inline
@@ -1694,8 +1694,8 @@ references:
     url: "https://en.wikipedia.org/wiki/BrickerBot"
     clean_url: "https://en.wikipedia.org/wiki/BrickerBot"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260114035139/https://en.wikipedia.org./wiki/BrickerBot"
+    archive_date: "2026-01-14"
     access_date: null
     license: null
     context: inline
@@ -1730,8 +1730,8 @@ references:
     url: "https://security.stackexchange.com/questions/261310/identification-of-a-laptop-using-a-spoofed-wifi-mac-address"
     clean_url: "https://security.stackexchange.com/questions/261310/identification-of-a-laptop-using-a-spoofed-wifi-mac-address"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251214105223/https://security.stackexchange.com/questions/261310/identification-of-a-laptop-using-a-spoofed-wifi-mac-address"
+    archive_date: "2025-12-14"
     access_date: null
     license: null
     context: inline
@@ -1766,8 +1766,8 @@ references:
     url: "https://www.autoevolution.com/news/researchers-discovered-that-teslas-are-easy-to-steal-despite-adopting-new-keyless-tech-234343.html"
     clean_url: "https://www.autoevolution.com/news/researchers-discovered-that-teslas-are-easy-to-steal-despite-adopting-new-keyless-tech-234343.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250216225116/https://www.autoevolution.com/news/researchers-discovered-that-teslas-are-easy-to-steal-despite-adopting-new-keyless-tech-234343.html"
+    archive_date: "2025-02-16"
     access_date: null
     license: null
     context: inline
@@ -1784,8 +1784,8 @@ references:
     url: "https://futurism.com/the-byte/teslas-stolen-wifi-charging-research"
     clean_url: "https://futurism.com/the-byte/teslas-stolen-wifi-charging-research"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251213143948/https://futurism.com/the-byte/teslas-stolen-wifi-charging-research"
+    archive_date: "2025-12-13"
     access_date: null
     license: null
     context: inline
@@ -1802,8 +1802,8 @@ references:
     url: "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.037331"
     clean_url: "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.037331"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250705010231/https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.118.037331"
+    archive_date: "2025-07-05"
     access_date: null
     license: null
     context: inline
@@ -1820,8 +1820,8 @@ references:
     url: "https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/"
     clean_url: "https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260217175138/https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/"
+    archive_date: "2026-02-17"
     access_date: null
     license: null
     context: inline
@@ -1838,8 +1838,8 @@ references:
     url: "https://techcrunch.com/2016/10/10/hackers-release-source-code-for-a-powerful-ddos-app-called-mirai/"
     clean_url: "https://techcrunch.com/2016/10/10/hackers-release-source-code-for-a-powerful-ddos-app-called-mirai/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251209133058/https://techcrunch.com/2016/10/10/hackers-release-source-code-for-a-powerful-ddos-app-called-mirai/"
+    archive_date: "2025-12-09"
     access_date: null
     license: null
     context: inline
@@ -1874,8 +1874,8 @@ references:
     url: "https://www.theverge.com/circuitbreaker/2018/6/13/17461612/tapplock-smart-lock-hack-bluetooth-low-energy"
     clean_url: "https://www.theverge.com/circuitbreaker/2018/6/13/17461612/tapplock-smart-lock-hack-bluetooth-low-energy"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20240210042210/https://www.theverge.com/circuitbreaker/2018/6/13/17461612/tapplock-smart-lock-hack-bluetooth-low-energy"
+    archive_date: "2024-02-10"
     access_date: null
     license: null
     context: inline
@@ -1892,8 +1892,8 @@ references:
     url: "https://bgr.com/tech/researchers-find-smart-door-locks-are-easy-to-hack-surprising-no-one/"
     clean_url: "https://bgr.com/tech/researchers-find-smart-door-locks-are-easy-to-hack-surprising-no-one/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20241225233159/https://bgr.com/tech/researchers-find-smart-door-locks-are-easy-to-hack-surprising-no-one/"
+    archive_date: "2024-12-25"
     access_date: null
     license: null
     context: inline
@@ -1910,8 +1910,8 @@ references:
     url: "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/hacker-compromised-family-s-wi-fi-taunted-family-with-thermostat-camera-for-24-hours"
     clean_url: "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/hacker-compromised-family-s-wi-fi-taunted-family-with-thermostat-camera-for-24-hours"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260117154620/https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/hacker-compromised-family-s-wi-fi-taunted-family-with-thermostat-camera-for-24-hours"
+    archive_date: "2026-01-17"
     access_date: null
     license: null
     context: inline
@@ -1928,8 +1928,8 @@ references:
     url: "https://wisdiam.com/publications/recent-cyber-attacks-water-wastewater/"
     clean_url: "https://wisdiam.com/publications/recent-cyber-attacks-water-wastewater/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251216092815/https://wisdiam.com/publications/recent-cyber-attacks-water-wastewater/"
+    archive_date: "2025-12-16"
     access_date: null
     license: null
     context: inline
@@ -1946,8 +1946,8 @@ references:
     url: "https://www.cnbc.com/2024/10/08/american-water-largest-us-water-utility-cyberattack.html"
     clean_url: "https://www.cnbc.com/2024/10/08/american-water-largest-us-water-utility-cyberattack.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251117034834/https://www.cnbc.com/2024/10/08/american-water-largest-us-water-utility-cyberattack.html"
+    archive_date: "2025-11-17"
     access_date: null
     license: null
     context: inline
@@ -1982,8 +1982,8 @@ references:
     url: "https://www.wired.com/story/huawei-says-us-sanctions-reduce-revenue-dollar30-billion/"
     clean_url: "https://www.wired.com/story/huawei-says-us-sanctions-reduce-revenue-dollar30-billion/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250407201234/https://www.wired.com/story/huawei-says-us-sanctions-reduce-revenue-dollar30-billion/"
+    archive_date: "2025-04-07"
     access_date: null
     license: null
     context: inline
@@ -2000,8 +2000,8 @@ references:
     url: "https://www.computing.co.uk/news/2025/security/uk-defence-firms-warn-staff-against-connecting-phones-to-chinese-made-evs-amid-espionage-fears"
     clean_url: "https://www.computing.co.uk/news/2025/security/uk-defence-firms-warn-staff-against-connecting-phones-to-chinese-made-evs-amid-espionage-fears"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250814115328/https://www.computing.co.uk/news/2025/security/uk-defence-firms-warn-staff-against-connecting-phones-to-chinese-made-evs-amid-espionage-fears"
+    archive_date: "2025-08-14"
     access_date: null
     license: null
     context: inline
@@ -2018,8 +2018,8 @@ references:
     url: "https://press.siemens.com/global/en/pressrelease/new-siemens-platform-brings-zero-trust-security-industrial-networks"
     clean_url: "https://press.siemens.com/global/en/pressrelease/new-siemens-platform-brings-zero-trust-security-industrial-networks"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251215150527/https://press.siemens.com/global/en/pressrelease/new-siemens-platform-brings-zero-trust-security-industrial-networks"
+    archive_date: "2025-12-15"
     access_date: null
     license: null
     context: html-comment
@@ -2036,8 +2036,8 @@ references:
     url: "https://www.theroadtlv.com/smart-tangibles"
     clean_url: "https://www.theroadtlv.com/smart-tangibles"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251211192402/https://www.theroadtlv.com/smart-tangibles"
+    archive_date: "2025-12-11"
     access_date: null
     license: null
     context: inline
@@ -2072,8 +2072,8 @@ references:
     url: "https://www.pfwlabels.com/product/security-labels-tamper-proof/"
     clean_url: "https://www.pfwlabels.com/product/security-labels-tamper-proof/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250918091617/https://www.pfwlabels.com/product/security-labels-tamper-proof/"
+    archive_date: "2025-09-18"
     access_date: null
     license: null
     context: inline
@@ -2126,8 +2126,8 @@ references:
     url: "https://www.theroadtlv.com/post/smart-and-secured-think-again-part2#viewer-i8sgm363422"
     clean_url: "https://www.theroadtlv.com/post/smart-and-secured-think-again-part2#viewer-i8sgm363422"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251012050540/https://www.theroadtlv.com/post/smart-and-secured-think-again-part2"
+    archive_date: "2025-10-12"
     access_date: null
     license: null
     context: inline
@@ -2144,8 +2144,8 @@ references:
     url: "https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf"
     clean_url: "https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260127004934/https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf"
+    archive_date: "2026-01-27"
     access_date: null
     license: null
     context: inline
@@ -2162,8 +2162,8 @@ references:
     url: "https://www.fcc.gov/CyberTrustMark"
     clean_url: "https://www.fcc.gov/CyberTrustMark"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260122012514/https://www.fcc.gov/CyberTrustMark"
+    archive_date: "2026-01-22"
     access_date: null
     license: null
     context: inline
@@ -2180,8 +2180,8 @@ references:
     url: "https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
     clean_url: "https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260127193623/https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
+    archive_date: "2026-01-27"
     access_date: null
     license: null
     context: inline
@@ -2198,8 +2198,8 @@ references:
     url: "https://gdpr-info.eu/"
     clean_url: "https://gdpr-info.eu/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260219183940/https://gdpr-info.eu/"
+    archive_date: "2026-02-19"
     access_date: null
     license: null
     context: inline
@@ -2216,8 +2216,8 @@ references:
     url: "https://www.hackerone.com/product/code-security-audit"
     clean_url: "https://www.hackerone.com/product/code-security-audit"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260215042319/https://www.hackerone.com/product/code-security-audit"
+    archive_date: "2026-02-15"
     access_date: null
     license: null
     context: inline
@@ -2234,8 +2234,8 @@ references:
     url: "https://www.bugcrowd.com/resources/guide/ultimate-guide-to-crowdsourced-security-for-saas-companies/"
     clean_url: "https://www.bugcrowd.com/resources/guide/ultimate-guide-to-crowdsourced-security-for-saas-companies/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260106211614/https://www.bugcrowd.com/resources/guide/ultimate-guide-to-crowdsourced-security-for-saas-companies/"
+    archive_date: "2026-01-06"
     access_date: null
     license: null
     context: inline
@@ -2252,8 +2252,8 @@ references:
     url: "https://www.imperva.com/learn/data-security/soc-2-compliance/#:~:text=SOC%202%20is%20an%20auditing,when%20considering%20a%20SaaS%20provider"
     clean_url: "https://www.imperva.com/learn/data-security/soc-2-compliance/#:~:text=SOC%202%20is%20an%20auditing,when%20considering%20a%20SaaS%20provider"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260210184834/https://www.imperva.com/learn/data-security/soc-2-compliance/"
+    archive_date: "2026-02-10"
     access_date: null
     license: null
     context: inline
@@ -2270,8 +2270,8 @@ references:
     url: "https://www.iso.org/isoiec-27001-information-security.html"
     clean_url: "https://www.iso.org/isoiec-27001-information-security.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250223000341/https://www.iso.org/isoiec-27001-information-security.html"
+    archive_date: "2025-02-23"
     access_date: null
     license: null
     context: inline
@@ -2288,8 +2288,8 @@ references:
     url: "https://www.commoncriteriaportal.org/"
     clean_url: "https://www.commoncriteriaportal.org/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260119095850/http://www.commoncriteriaportal.org/"
+    archive_date: "2026-01-19"
     access_date: null
     license: null
     context: inline
@@ -2306,8 +2306,8 @@ references:
     url: "https://www.mozillafoundation.org/en/privacynotincluded/"
     clean_url: "https://www.mozillafoundation.org/en/privacynotincluded/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260220062055/https://www.mozillafoundation.org/en/privacynotincluded/"
+    archive_date: "2026-02-20"
     access_date: null
     license: null
     context: inline
@@ -2324,8 +2324,8 @@ references:
     url: "https://frame.work/"
     clean_url: "https://frame.work/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260213215321/https://frame.work/"
+    archive_date: "2026-02-13"
     access_date: null
     license: null
     context: inline
@@ -2342,8 +2342,8 @@ references:
     url: "https://www.fairphone.com/"
     clean_url: "https://www.fairphone.com/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260125153905/https://www.fairphone.com/"
+    archive_date: "2026-01-25"
     access_date: null
     license: null
     context: inline
@@ -2360,8 +2360,8 @@ references:
     url: "https://developer.apple.com/documentation/apptrackingtransparency"
     clean_url: "https://developer.apple.com/documentation/apptrackingtransparency"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260214013121/https://developer.apple.com/documentation/apptrackingtransparency"
+    archive_date: "2026-02-14"
     access_date: null
     license: null
     context: inline
@@ -2378,8 +2378,8 @@ references:
     url: "https://www.wired.com/story/huawei-says-us-sanctions-reduce-revenue-dollar30-billion/"
     clean_url: "https://www.wired.com/story/huawei-says-us-sanctions-reduce-revenue-dollar30-billion/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250407201234/https://www.wired.com/story/huawei-says-us-sanctions-reduce-revenue-dollar30-billion/"
+    archive_date: "2025-04-07"
     access_date: null
     license: null
     context: further-reading
@@ -2396,8 +2396,8 @@ references:
     url: "https://www.economist.com/special-report/2019/05/16/trade-can-no-longer-anchor-americas-relationship-with-china"
     clean_url: "https://www.economist.com/special-report/2019/05/16/trade-can-no-longer-anchor-americas-relationship-with-china"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251106082808/https://www.economist.com/special-report/2019/05/16/trade-can-no-longer-anchor-americas-relationship-with-china"
+    archive_date: "2025-11-06"
     access_date: null
     license: null
     context: inline
@@ -2504,8 +2504,8 @@ references:
     url: "https://www.theroadtlv.com/post/product-management-for-the-physical-world-series"
     clean_url: "https://www.theroadtlv.com/post/product-management-for-the-physical-world-series"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251211181023/https://www.theroadtlv.com/post/product-management-for-the-physical-world-series"
+    archive_date: "2025-12-11"
     access_date: null
     license: null
     context: further-reading
@@ -2522,8 +2522,8 @@ references:
     url: "https://www.theroadtlv.com/post/smart-tangibles"
     clean_url: "https://www.theroadtlv.com/post/smart-tangibles"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251111145507/https://www.theroadtlv.com/post/smart-tangibles"
+    archive_date: "2025-11-11"
     access_date: null
     license: null
     context: further-reading
@@ -2540,8 +2540,8 @@ references:
     url: "https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
     clean_url: "https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260127193623/https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
+    archive_date: "2026-01-27"
     access_date: null
     license: null
     context: further-reading
@@ -2630,8 +2630,8 @@ references:
     url: "https://www.theroadtlv.com/post/business-models-contribution-margin"
     clean_url: "https://www.theroadtlv.com/post/business-models-contribution-margin"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251012043239/https://www.theroadtlv.com/post/business-models-contribution-margin"
+    archive_date: "2025-10-12"
     access_date: null
     license: null
     context: inline
@@ -2684,8 +2684,8 @@ references:
     url: "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2011/03/news_center_news_releases_2011_2011030201.html"
     clean_url: "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2011/03/news_center_news_releases_2011_2011030201.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251114091030/https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2011/03/news_center_news_releases_2011_2011030201.html"
+    archive_date: "2025-11-14"
     access_date: null
     license: null
     context: inline
@@ -2720,8 +2720,8 @@ references:
     url: "https://www.theroadtlv.com/post/the-cost-of-capital"
     clean_url: "https://www.theroadtlv.com/post/the-cost-of-capital"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251111132941/https://www.theroadtlv.com/post/the-cost-of-capital"
+    archive_date: "2025-11-11"
     access_date: null
     license: null
     context: inline
@@ -2738,8 +2738,8 @@ references:
     url: "https://www.theroadtlv.com/post/valuation-financing-strategy"
     clean_url: "https://www.theroadtlv.com/post/valuation-financing-strategy"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250917025435/https://www.theroadtlv.com/post/valuation-financing-strategy"
+    archive_date: "2025-09-17"
     access_date: null
     license: null
     context: inline
@@ -2774,8 +2774,8 @@ references:
     url: "https://patents.google.com/patent/US4136202A/en"
     clean_url: "https://patents.google.com/patent/US4136202A/en"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260219222940/https://patents.google.com/patent/US4136202A/en"
+    archive_date: "2026-02-19"
     access_date: null
     license: null
     context: figure-caption
@@ -2792,8 +2792,8 @@ references:
     url: "https://www.appeconomyinsights.com/p/alphabet-cloud-overshadows-ad-rebound"
     clean_url: "https://www.appeconomyinsights.com/p/alphabet-cloud-overshadows-ad-rebound"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251114000407/https://www.appeconomyinsights.com/p/alphabet-cloud-overshadows-ad-rebound"
+    archive_date: "2025-11-14"
     access_date: null
     license: null
     context: figure-caption
@@ -2828,8 +2828,8 @@ references:
     url: "https://electrek.co/2019/11/01/tesla-model-3-long-range-increases-range-price/#:~:text=Tesla%20is%20as%20much%20a,to%20date%20and%20new%20cars"
     clean_url: "https://electrek.co/2019/11/01/tesla-model-3-long-range-increases-range-price/#:~:text=Tesla%20is%20as%20much%20a,to%20date%20and%20new%20cars"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20230204150139/https://electrek.co/2019/11/01/tesla-model-3-long-range-increases-range-price/"
+    archive_date: "2023-02-04"
     access_date: null
     license: null
     context: inline
@@ -2846,8 +2846,8 @@ references:
     url: "https://gunshowcomic.com/513"
     clean_url: "https://gunshowcomic.com/513"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251229050509/https://gunshowcomic.com/513"
+    archive_date: "2025-12-29"
     access_date: null
     license: null
     context: figure-caption
@@ -2900,8 +2900,8 @@ references:
     url: "https://www.facebook.com/reizigersov/posts/1079652722052431"
     clean_url: "https://www.facebook.com/reizigersov/posts/1079652722052431"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20180426131331/https://www.facebook.com/reizigersov/posts/1079652722052431"
+    archive_date: "2018-04-26"
     access_date: null
     license: null
     context: figure-caption
@@ -2918,8 +2918,8 @@ references:
     url: "https://global.roborock.com"
     clean_url: "https://global.roborock.com"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260206195513/https://global.roborock.com/"
+    archive_date: "2026-02-06"
     access_date: null
     license: null
     context: inline
@@ -2936,8 +2936,8 @@ references:
     url: "https://www.ecovacs.com/global"
     clean_url: "https://www.ecovacs.com/global"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260203101110/https://www.ecovacs.com/global"
+    archive_date: "2026-02-03"
     access_date: null
     license: null
     context: inline
@@ -2954,8 +2954,8 @@ references:
     url: "https://www.dreametech.com"
     clean_url: "https://www.dreametech.com"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260126072446/https://www.dreametech.com/"
+    archive_date: "2026-01-26"
     access_date: null
     license: null
     context: inline
@@ -2972,8 +2972,8 @@ references:
     url: "https://arstechnica.com/gadgets/2025/03/irobot-says-there-is-substantial-doubt-about-it-as-a-going-concern/"
     clean_url: "https://arstechnica.com/gadgets/2025/03/irobot-says-there-is-substantial-doubt-about-it-as-a-going-concern/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250527172359/https://arstechnica.com/gadgets/2025/03/irobot-says-there-is-substantial-doubt-about-it-as-a-going-concern/"
+    archive_date: "2025-05-27"
     access_date: null
     license: null
     context: inline
@@ -2990,8 +2990,8 @@ references:
     url: "https://finance.yahoo.com/quote/IRBT/"
     clean_url: "https://finance.yahoo.com/quote/IRBT/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250819011602/https://finance.yahoo.com/quote/IRBT/"
+    archive_date: "2025-08-19"
     access_date: null
     license: null
     context: inline
@@ -3026,8 +3026,8 @@ references:
     url: "https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping"
     clean_url: "https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260102154510/https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping"
+    archive_date: "2026-01-02"
     access_date: null
     license: null
     context: figure-caption
@@ -3044,8 +3044,8 @@ references:
     url: "https://global.roborock.com/"
     clean_url: "https://global.roborock.com/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260111094657/https://global.roborock.com/"
+    archive_date: "2026-01-11"
     access_date: null
     license: null
     context: figure-caption
@@ -3062,8 +3062,8 @@ references:
     url: "https://www.techhive.com/article/2010908/is-irobot-select-worth-it.html"
     clean_url: "https://www.techhive.com/article/2010908/is-irobot-select-worth-it.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20241120152212/https://www.techhive.com/article/2010908/is-irobot-select-worth-it.html"
+    archive_date: "2024-11-20"
     access_date: null
     license: null
     context: inline
@@ -3080,8 +3080,8 @@ references:
     url: "https://www.irobot.com/en_US/irobot-home-app.html"
     clean_url: "https://www.irobot.com/en_US/irobot-home-app.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260203170957/https://www.irobot.com/en_US/irobot-home-app.html"
+    archive_date: "2026-02-03"
     access_date: null
     license: null
     context: inline
@@ -3098,8 +3098,8 @@ references:
     url: "https://savemyleads.com/blog/other/what-is-the-average-roas-for-facebook-ads"
     clean_url: "https://savemyleads.com/blog/other/what-is-the-average-roas-for-facebook-ads"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251210183943/https://savemyleads.com/blog/other/what-is-the-average-roas-for-facebook-ads"
+    archive_date: "2025-12-10"
     access_date: null
     license: null
     context: inline
@@ -3134,8 +3134,8 @@ references:
     url: "https://app--home-bot-e98bade2.base44.app"
     clean_url: "https://app--home-bot-e98bade2.base44.app"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250330155337/https://app--home-bot-e98bade2.base44.app/"
+    archive_date: "2025-03-30"
     access_date: null
     license: null
     context: inline
@@ -3170,8 +3170,8 @@ references:
     url: "https://vacuumwars.com/robot-vacuum-market-trends-are-traditional-vacuums-falling-behind/"
     clean_url: "https://vacuumwars.com/robot-vacuum-market-trends-are-traditional-vacuums-falling-behind/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260216155722/https://vacuumwars.com/robot-vacuum-market-trends-are-traditional-vacuums-falling-behind/"
+    archive_date: "2026-02-16"
     access_date: null
     license: null
     context: inline
@@ -3242,8 +3242,8 @@ references:
     url: "https://www.news.market.us/vacuum-cleaner-statistics/"
     clean_url: "https://www.news.market.us/vacuum-cleaner-statistics/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251226071520/https://www.news.market.us/vacuum-cleaner-statistics/"
+    archive_date: "2025-12-26"
     access_date: null
     license: null
     context: inline
@@ -3278,8 +3278,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Canon_APS_Elph.jpg"
     clean_url: "https://commons.wikimedia.org/wiki/File:Canon_APS_Elph.jpg"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20241202203947/https://commons.wikimedia.org/wiki/File:Canon_APS_Elph.jpg"
+    archive_date: "2024-12-02"
     access_date: null
     license: null
     context: inline
@@ -3314,8 +3314,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Victorinox_Swiss_Army_Knife.jpg"
     clean_url: "https://commons.wikimedia.org/wiki/File:Victorinox_Swiss_Army_Knife.jpg"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250529084529/https://commons.wikimedia.org/wiki/File:Victorinox_Swiss_Army_Knife.jpg"
+    archive_date: "2025-05-29"
     access_date: null
     license: null
     context: inline
@@ -3350,8 +3350,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Flashlight_%28Wuzur%29.jpg"
     clean_url: "https://commons.wikimedia.org/wiki/File:Flashlight_%28Wuzur%29.jpg"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251213232913/https://commons.wikimedia.org/wiki/File:Flashlight_(Wuzur).jpg"
+    archive_date: "2025-12-13"
     access_date: null
     license: null
     context: figure-caption
@@ -3386,8 +3386,8 @@ references:
     url: "https://support.strava.com/hc/en-us/articles/224357527-Strava-Beacon"
     clean_url: "https://support.strava.com/hc/en-us/articles/224357527-Strava-Beacon"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260127153533/https://support.strava.com/hc/en-us/articles/224357527-Strava-Beacon"
+    archive_date: "2026-01-27"
     access_date: null
     license: null
     context: figure-caption
@@ -3404,8 +3404,8 @@ references:
     url: "https://www.gpsworld.com/wirelesssmartphone-revolution-9183/"
     clean_url: "https://www.gpsworld.com/wirelesssmartphone-revolution-9183/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251217203904/https://www.gpsworld.com/wirelesssmartphone-revolution-9183/"
+    archive_date: "2025-12-17"
     access_date: null
     license: null
     context: endnote
@@ -3422,8 +3422,8 @@ references:
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4570352/"
     clean_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4570352/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260116072859/https://pmc.ncbi.nlm.nih.gov/articles/PMC4570352/"
+    archive_date: "2026-01-16"
     access_date: null
     license: null
     context: inline
@@ -3440,8 +3440,8 @@ references:
     url: "https://www.news.market.us/vacuum-cleaner-statistics/"
     clean_url: "https://www.news.market.us/vacuum-cleaner-statistics/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251226071520/https://www.news.market.us/vacuum-cleaner-statistics/"
+    archive_date: "2025-12-26"
     access_date: null
     license: null
     context: inline
@@ -3512,8 +3512,8 @@ references:
     url: "https://depatisnet.dpma.de/DepatisNet/depatisnet?window=1&space=menu&content=treffer&action=pdf&docid=DE000000054093A"
     clean_url: "https://depatisnet.dpma.de/DepatisNet/depatisnet?window=1&space=menu&content=treffer&action=pdf&docid=DE000000054093A"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250906014214/https://depatisnet.dpma.de/DepatisNet/depatisnet?window=1&space=menu&content=treffer&action=pdf&docid=DE000000054093A"
+    archive_date: "2025-09-06"
     access_date: null
     license: null
     context: figure-caption
@@ -3530,8 +3530,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Fallblattanzeigetafel_ausschnitt_ffm_hbf.jpg"
     clean_url: "https://commons.wikimedia.org/wiki/File:Fallblattanzeigetafel_ausschnitt_ffm_hbf.jpg"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251230174918/https://commons.wikimedia.org/wiki/File:Fallblattanzeigetafel_ausschnitt_ffm_hbf.jpg"
+    archive_date: "2025-12-30"
     access_date: null
     license: null
     context: figure-caption
@@ -3566,8 +3566,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Nokia6610i.png"
     clean_url: "https://commons.wikimedia.org/wiki/File:Nokia6610i.png"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250706130207/https://commons.wikimedia.org/wiki/File:Nokia6610i.png"
+    archive_date: "2025-07-06"
     access_date: null
     license: null
     context: figure-caption
@@ -3602,8 +3602,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Bangalore_Wikipedian_on_phone_5_closeup.jpg"
     clean_url: "https://commons.wikimedia.org/wiki/File:Bangalore_Wikipedian_on_phone_5_closeup.jpg"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251229224312/https://commons.wikimedia.org/wiki/File:Bangalore_Wikipedian_on_phone_5_closeup.jpg"
+    archive_date: "2025-12-29"
     access_date: null
     license: null
     context: figure-caption
@@ -3638,8 +3638,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Flight_data_recorder_displayed_at_HAL_Museum_7893.JPG"
     clean_url: "https://commons.wikimedia.org/wiki/File:Flight_data_recorder_displayed_at_HAL_Museum_7893.JPG"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250724164302/https://commons.wikimedia.org/wiki/File:Flight_data_recorder_displayed_at_HAL_Museum_7893.JPG"
+    archive_date: "2025-07-24"
     access_date: null
     license: null
     context: figure-caption
@@ -3656,8 +3656,8 @@ references:
     url: "https://www.nngroup.com/articles/ten-usability-heuristics/"
     clean_url: "https://www.nngroup.com/articles/ten-usability-heuristics/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260220023636/https://www.nngroup.com/articles/ten-usability-heuristics/"
+    archive_date: "2026-02-20"
     access_date: null
     license: null
     context: inline
@@ -3674,8 +3674,8 @@ references:
     url: "https://gemini.google.com"
     clean_url: "https://gemini.google.com"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260220041238/https://gemini.google.com/"
+    archive_date: "2026-02-20"
     access_date: null
     license: null
     context: figure-caption
@@ -3692,8 +3692,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Pila_di_Volta.jpg"
     clean_url: "https://commons.wikimedia.org/wiki/File:Pila_di_Volta.jpg"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260112072608/https://commons.wikimedia.org/wiki/File:Pila_di_volta.jpg"
+    archive_date: "2026-01-12"
     access_date: null
     license: null
     context: figure-caption
@@ -3710,8 +3710,8 @@ references:
     url: "https://commons.wikimedia.org/wiki/File:Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg"
     clean_url: "https://commons.wikimedia.org/wiki/File:Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251127203931/https://commons.wikimedia.org/wiki/File:Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg"
+    archive_date: "2025-11-27"
     access_date: null
     license: null
     context: figure-caption
@@ -3746,8 +3746,8 @@ references:
     url: "https://www.bluetooth.com/specifications/specs/core-specification-6-2/"
     clean_url: "https://www.bluetooth.com/specifications/specs/core-specification-6-2/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260203090812/https://www.bluetooth.com/specifications/specs/core-specification-6-2/"
+    archive_date: "2026-02-03"
     access_date: null
     license: null
     context: inline
@@ -3764,8 +3764,8 @@ references:
     url: "https://standards.ieee.org/ieee/802.15.4z/10230/"
     clean_url: "https://standards.ieee.org/ieee/802.15.4z/10230/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251208074231/https://standards.ieee.org/ieee/802.15.4z/10230/"
+    archive_date: "2025-12-08"
     access_date: null
     license: null
     context: inline
@@ -3782,8 +3782,8 @@ references:
     url: "https://www.firaconsortium.org/"
     clean_url: "https://www.firaconsortium.org/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260114221734/https://www.firaconsortium.org/"
+    archive_date: "2026-01-14"
     access_date: null
     license: null
     context: inline
@@ -3800,8 +3800,8 @@ references:
     url: "https://aws.amazon.com/iot-core/sidewalk/"
     clean_url: "https://aws.amazon.com/iot-core/sidewalk/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251119235015/https://aws.amazon.com/iot-core/sidewalk/"
+    archive_date: "2025-11-19"
     access_date: null
     license: null
     context: inline
@@ -3818,8 +3818,8 @@ references:
     url: "https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-7"
     clean_url: "https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-7"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20250524140133/https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-7"
+    archive_date: "2025-05-24"
     access_date: null
     license: null
     context: inline
@@ -3836,8 +3836,8 @@ references:
     url: "https://csa-iot.org/all-solutions/matter/"
     clean_url: "https://csa-iot.org/all-solutions/matter/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260127095411/https://csa-iot.org/all-solutions/matter/"
+    archive_date: "2026-01-27"
     access_date: null
     license: null
     context: inline
@@ -3854,8 +3854,8 @@ references:
     url: "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/"
     clean_url: "https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260109143923/https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/"
+    archive_date: "2026-01-09"
     access_date: null
     license: null
     context: inline
@@ -3872,8 +3872,8 @@ references:
     url: "https://www.3gpp.org/technologies/nr-redcap-glimpse"
     clean_url: "https://www.3gpp.org/technologies/nr-redcap-glimpse"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251205080520/https://www.3gpp.org/technologies/nr-redcap-glimpse"
+    archive_date: "2025-12-05"
     access_date: null
     license: null
     context: inline
@@ -3890,8 +3890,8 @@ references:
     url: "https://www.3gpp.org/news-events/3gpp-news/nb-iot-complete"
     clean_url: "https://www.3gpp.org/news-events/3gpp-news/nb-iot-complete"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251007030915/https://www.3gpp.org/news-events/3gpp-news/nb-iot-complete"
+    archive_date: "2025-10-07"
     access_date: null
     license: null
     context: inline
@@ -3962,8 +3962,8 @@ references:
     url: "https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html"
     clean_url: "https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260115215443/https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html"
+    archive_date: "2026-01-15"
     access_date: null
     license: null
     context: inline
@@ -3998,8 +3998,8 @@ references:
     url: "https://digital-strategy.ec.europa.eu/en/policies/data-act"
     clean_url: "https://digital-strategy.ec.europa.eu/en/policies/data-act"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260118084714/https://digital-strategy.ec.europa.eu/en/policies/data-act"
+    archive_date: "2026-01-18"
     access_date: null
     license: null
     context: inline
@@ -4016,8 +4016,8 @@ references:
     url: "https://www.iso.org/standard/80138.html"
     clean_url: "https://www.iso.org/standard/80138.html"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251128115030/https://www.iso.org/standard/80138.html"
+    archive_date: "2025-11-28"
     access_date: null
     license: null
     context: inline
@@ -4034,8 +4034,8 @@ references:
     url: "https://www.etsi.org/technologies/consumer-iot-security"
     clean_url: "https://www.etsi.org/technologies/consumer-iot-security"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20260112084158/https://www.etsi.org/technologies/consumer-iot-security"
+    archive_date: "2026-01-12"
     access_date: null
     license: null
     context: inline
@@ -4052,8 +4052,8 @@ references:
     url: "https://www.news.market.us/vacuum-cleaner-statistics/"
     clean_url: "https://www.news.market.us/vacuum-cleaner-statistics/"
     doi: null
-    archive_url: null
-    archive_date: null
+    archive_url: "http://web.archive.org/web/20251226071520/https://www.news.market.us/vacuum-cleaner-statistics/"
+    archive_date: "2025-12-26"
     access_date: null
     license: null
     context: inline
