@@ -21,6 +21,7 @@
 #   license:        For images: CC license string
 #   context:        Where in chapter: inline | figure-caption | endnote | further-reading | html-comment
 #   line:           Line number in source file
+#   status:         active | removed (removed = URL no longer in any chapter)
 #   companion_site: Whether linked from companion site
 #   notes:          Additional context
 #
@@ -44,6 +45,7 @@ references:
     license: null
     context: inline
     line: 21
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch00-002
@@ -62,6 +64,7 @@ references:
     license: null
     context: figure-caption
     line: 51
+    status: active
     companion_site: false
     notes: "Figure 0.5"
   - id: ref-ch00-003
@@ -80,6 +83,7 @@ references:
     license: null
     context: figure-caption
     line: 68
+    status: active
     companion_site: false
     notes: "Figure 0.6"
   - id: ref-ch00-004
@@ -98,6 +102,7 @@ references:
     license: null
     context: figure-caption
     line: 186
+    status: active
     companion_site: false
     notes: "Figure 0.13"
   - id: ref-ch00-005
@@ -116,6 +121,7 @@ references:
     license: null
     context: inline
     line: 190
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch01-001
@@ -134,6 +140,7 @@ references:
     license: null
     context: inline
     line: 53
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch01-002
@@ -152,6 +159,7 @@ references:
     license: null
     context: html-comment
     line: 124
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch01-003
@@ -170,6 +178,7 @@ references:
     license: null
     context: inline
     line: 144
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch01-004
@@ -188,6 +197,7 @@ references:
     license: null
     context: inline
     line: 154
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch01-005
@@ -206,6 +216,7 @@ references:
     license: null
     context: figure-caption
     line: 192
+    status: active
     companion_site: false
     notes: "Figure 1.9"
   - id: ref-ch01-006
@@ -224,6 +235,7 @@ references:
     license: null
     context: inline
     line: 242
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-001
@@ -242,6 +254,7 @@ references:
     license: null
     context: inline
     line: 26
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-002
@@ -260,6 +273,7 @@ references:
     license: null
     context: inline
     line: 44
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-003
@@ -278,6 +292,7 @@ references:
     license: null
     context: inline
     line: 45
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-004
@@ -296,6 +311,7 @@ references:
     license: null
     context: inline
     line: 53
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-005
@@ -303,7 +319,7 @@ references:
     type: web-article
     authors: ""
     date: ""
-    title: "Google Coral NPU"
+    title: "Google Coral"
     source: "developers.google.com"
     url: "https://developers.google.com/coral"
     clean_url: "https://developers.google.com/coral"
@@ -314,6 +330,7 @@ references:
     license: null
     context: inline
     line: 65
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-006
@@ -332,6 +349,7 @@ references:
     license: null
     context: inline
     line: 65
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-007
@@ -350,6 +368,7 @@ references:
     license: null
     context: inline
     line: 66
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-008
@@ -368,6 +387,7 @@ references:
     license: null
     context: inline
     line: 67
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-009
@@ -386,6 +406,7 @@ references:
     license: null
     context: inline
     line: 67
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-010
@@ -404,6 +425,7 @@ references:
     license: null
     context: inline
     line: 81
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-011
@@ -422,6 +444,7 @@ references:
     license: null
     context: inline
     line: 90
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-012
@@ -440,6 +463,7 @@ references:
     license: null
     context: inline
     line: 91
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-013
@@ -458,6 +482,7 @@ references:
     license: null
     context: inline
     line: 111
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-014
@@ -476,6 +501,7 @@ references:
     license: null
     context: inline
     line: 138
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-015
@@ -494,6 +520,7 @@ references:
     license: null
     context: inline
     line: 171
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-016
@@ -512,6 +539,7 @@ references:
     license: null
     context: inline
     line: 171
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-017
@@ -530,6 +558,7 @@ references:
     license: null
     context: inline
     line: 174
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-018
@@ -548,6 +577,7 @@ references:
     license: null
     context: inline
     line: 174
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-019
@@ -566,6 +596,7 @@ references:
     license: null
     context: inline
     line: 174
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-020
@@ -584,6 +615,7 @@ references:
     license: null
     context: inline
     line: 175
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch10-021
@@ -602,6 +634,7 @@ references:
     license: null
     context: inline
     line: 175
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch11-001
@@ -620,6 +653,7 @@ references:
     license: null
     context: inline
     line: 84
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch11-002
@@ -638,6 +672,7 @@ references:
     license: null
     context: inline
     line: 85
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch11-003
@@ -656,6 +691,7 @@ references:
     license: null
     context: inline
     line: 86
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch11-004
@@ -674,6 +710,7 @@ references:
     license: null
     context: inline
     line: 271
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch11-005
@@ -692,6 +729,7 @@ references:
     license: null
     context: figure-caption
     line: 342
+    status: active
     companion_site: false
     notes: "Figure 11.8"
   - id: ref-ch11-006
@@ -710,6 +748,7 @@ references:
     license: null
     context: figure-caption
     line: 416
+    status: active
     companion_site: false
     notes: "Figure 11.12"
   - id: ref-ch11-007
@@ -728,6 +767,7 @@ references:
     license: null
     context: figure-caption
     line: 529
+    status: active
     companion_site: false
     notes: "Figure 11.17"
   - id: ref-ch12-001
@@ -746,6 +786,7 @@ references:
     license: null
     context: inline
     line: 63
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch12-002
@@ -764,6 +805,7 @@ references:
     license: null
     context: inline
     line: 63
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch12-003
@@ -782,6 +824,7 @@ references:
     license: null
     context: inline
     line: 65
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch13-001
@@ -800,6 +843,7 @@ references:
     license: null
     context: figure-caption
     line: 71
+    status: active
     companion_site: false
     notes: "Figure 13.4"
   - id: ref-ch13-002
@@ -818,8 +862,9 @@ references:
     license: null
     context: figure-caption
     line: 99
+    status: active
     companion_site: false
-    notes: "Figure 13.5"
+    notes: "Figure 24.10"
   - id: ref-ch13-003
     chapter: "13"
     type: web-article
@@ -836,6 +881,7 @@ references:
     license: null
     context: inline
     line: 115
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch13-004
@@ -854,8 +900,9 @@ references:
     license: null
     context: figure-caption
     line: 159
+    status: active
     companion_site: false
-    notes: "Figure 13.7"
+    notes: "Figure 24.12"
   - id: ref-ch16-001
     chapter: "16"
     type: image
@@ -872,6 +919,7 @@ references:
     license: null
     context: figure-caption
     line: 33
+    status: active
     companion_site: false
     notes: "Figure 16.2"
   - id: ref-ch16-002
@@ -890,6 +938,7 @@ references:
     license: null
     context: inline
     line: 45
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch16-003
@@ -908,6 +957,7 @@ references:
     license: null
     context: figure-caption
     line: 77
+    status: active
     companion_site: false
     notes: "Figure 16.5"
   - id: ref-ch16-004
@@ -926,6 +976,7 @@ references:
     license: null
     context: inline
     line: 91
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch16-005
@@ -944,6 +995,7 @@ references:
     license: null
     context: inline
     line: 111
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch16-006
@@ -962,6 +1014,7 @@ references:
     license: null
     context: figure-caption
     line: 129
+    status: active
     companion_site: false
     notes: "Figure 16.7"
   - id: ref-ch16-007
@@ -980,6 +1033,7 @@ references:
     license: null
     context: figure-caption
     line: 143
+    status: active
     companion_site: false
     notes: "Figure 16.8"
   - id: ref-ch17-001
@@ -998,6 +1052,7 @@ references:
     license: null
     context: figure-caption
     line: 7
+    status: active
     companion_site: false
     notes: "Figure 17.1"
   - id: ref-ch17-002
@@ -1016,6 +1071,7 @@ references:
     license: null
     context: figure-caption
     line: 23
+    status: active
     companion_site: false
     notes: "Figure 17.2"
   - id: ref-ch17-003
@@ -1034,6 +1090,7 @@ references:
     license: null
     context: figure-caption
     line: 23
+    status: active
     companion_site: false
     notes: "Figure 17.2"
   - id: ref-ch17-004
@@ -1052,6 +1109,7 @@ references:
     license: null
     context: figure-caption
     line: 69
+    status: active
     companion_site: false
     notes: "Figure 17.4"
   - id: ref-ch17-005
@@ -1070,6 +1128,7 @@ references:
     license: null
     context: inline
     line: 75
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-006
@@ -1088,6 +1147,7 @@ references:
     license: null
     context: inline
     line: 75
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-007
@@ -1106,6 +1166,7 @@ references:
     license: null
     context: inline
     line: 111
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-008
@@ -1124,6 +1185,7 @@ references:
     license: null
     context: inline
     line: 111
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-009
@@ -1142,6 +1204,7 @@ references:
     license: null
     context: figure-caption
     line: 135
+    status: active
     companion_site: false
     notes: "Figure 17.5"
   - id: ref-ch17-010
@@ -1160,6 +1223,7 @@ references:
     license: null
     context: inline
     line: 149
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-011
@@ -1178,6 +1242,7 @@ references:
     license: null
     context: figure-caption
     line: 169
+    status: active
     companion_site: false
     notes: "Figure 17.7"
   - id: ref-ch17-012
@@ -1196,6 +1261,7 @@ references:
     license: null
     context: figure-caption
     line: 207
+    status: active
     companion_site: false
     notes: "Figure 17.8"
   - id: ref-ch17-013
@@ -1214,6 +1280,7 @@ references:
     license: null
     context: figure-caption
     line: 249
+    status: active
     companion_site: false
     notes: "Figure 17.10"
   - id: ref-ch17-014
@@ -1232,6 +1299,7 @@ references:
     license: null
     context: figure-caption
     line: 258
+    status: active
     companion_site: false
     notes: "Figure 17.11"
   - id: ref-ch17-015
@@ -1250,6 +1318,7 @@ references:
     license: null
     context: inline
     line: 292
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-016
@@ -1268,6 +1337,7 @@ references:
     license: null
     context: inline
     line: 293
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-017
@@ -1286,6 +1356,7 @@ references:
     license: null
     context: inline
     line: 294
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-018
@@ -1304,6 +1375,7 @@ references:
     license: null
     context: inline
     line: 295
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-019
@@ -1322,6 +1394,7 @@ references:
     license: null
     context: figure-caption
     line: 326
+    status: active
     companion_site: false
     notes: "Figure 17.14"
   - id: ref-ch17-020
@@ -1340,6 +1413,7 @@ references:
     license: null
     context: figure-caption
     line: 402
+    status: active
     companion_site: false
     notes: "Figure 17.15"
   - id: ref-ch17-021
@@ -1358,6 +1432,7 @@ references:
     license: null
     context: figure-caption
     line: 410
+    status: active
     companion_site: false
     notes: "Figure 17.16"
   - id: ref-ch17-022
@@ -1376,6 +1451,7 @@ references:
     license: null
     context: inline
     line: 422
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch17-023
@@ -1394,6 +1470,7 @@ references:
     license: null
     context: inline
     line: 430
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch18-001
@@ -1412,6 +1489,7 @@ references:
     license: null
     context: figure-caption
     line: 123
+    status: active
     companion_site: false
     notes: "Figure 18.12"
   - id: ref-ch18-002
@@ -1430,6 +1508,7 @@ references:
     license: null
     context: figure-caption
     line: 149
+    status: active
     companion_site: false
     notes: "Figure 18.14"
   - id: ref-ch18-003
@@ -1448,6 +1527,7 @@ references:
     license: null
     context: inline
     line: 151
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch18-004
@@ -1466,6 +1546,7 @@ references:
     license: null
     context: figure-caption
     line: 167
+    status: active
     companion_site: false
     notes: "Figure 18.17"
   - id: ref-ch18-005
@@ -1484,6 +1565,7 @@ references:
     license: null
     context: figure-caption
     line: 191
+    status: active
     companion_site: false
     notes: "Figure 18.19"
   - id: ref-ch18-006
@@ -1502,6 +1584,7 @@ references:
     license: null
     context: figure-caption
     line: 315
+    status: active
     companion_site: false
     notes: "Figure 18.27"
   - id: ref-ch18-007
@@ -1520,6 +1603,7 @@ references:
     license: null
     context: inline
     line: 325
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch18-008
@@ -1538,6 +1622,7 @@ references:
     license: null
     context: inline
     line: 457
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-001
@@ -1556,6 +1641,7 @@ references:
     license: null
     context: html-comment
     line: 5
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-002
@@ -1574,6 +1660,7 @@ references:
     license: null
     context: html-comment
     line: 5
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-003
@@ -1592,6 +1679,7 @@ references:
     license: null
     context: figure-caption
     line: 109
+    status: active
     companion_site: false
     notes: "Figure 19.6"
   - id: ref-ch19-004
@@ -1610,6 +1698,7 @@ references:
     license: null
     context: inline
     line: 288
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-005
@@ -1628,6 +1717,7 @@ references:
     license: null
     context: further-reading
     line: 298
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-006
@@ -1635,7 +1725,7 @@ references:
     type: web-article
     authors: ""
     date: ""
-    title: "<u><span>\"Smart Tangibles\", the book, is due 2026. You can read about it here</span></u>"
+    title: "<u><span>\\\"Smart Tangibles\\\", the book, is due 2026. You can read about it here</span></u>"
     source: "theroadtlv.com"
     url: "https://www.theroadtlv.com/post/smart-tangibles"
     clean_url: "https://www.theroadtlv.com/post/smart-tangibles"
@@ -1646,6 +1736,7 @@ references:
     license: null
     context: inline
     line: 300
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-007
@@ -1664,6 +1755,7 @@ references:
     license: null
     context: further-reading
     line: 308
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-008
@@ -1682,6 +1774,7 @@ references:
     license: null
     context: inline
     line: 312
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-009
@@ -1700,6 +1793,7 @@ references:
     license: null
     context: inline
     line: 314
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-010
@@ -1718,6 +1812,7 @@ references:
     license: null
     context: inline
     line: 318
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-011
@@ -1736,6 +1831,7 @@ references:
     license: null
     context: inline
     line: 322
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-012
@@ -1754,6 +1850,7 @@ references:
     license: null
     context: inline
     line: 326
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-013
@@ -1772,6 +1869,7 @@ references:
     license: null
     context: inline
     line: 328
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-014
@@ -1790,6 +1888,7 @@ references:
     license: null
     context: inline
     line: 330
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-015
@@ -1808,6 +1907,7 @@ references:
     license: null
     context: inline
     line: 334
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-016
@@ -1826,6 +1926,7 @@ references:
     license: null
     context: inline
     line: 338
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-017
@@ -1844,6 +1945,7 @@ references:
     license: null
     context: inline
     line: 342
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-018
@@ -1862,6 +1964,7 @@ references:
     license: null
     context: inline
     line: 346
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-019
@@ -1880,6 +1983,7 @@ references:
     license: null
     context: inline
     line: 350
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-020
@@ -1898,6 +2002,7 @@ references:
     license: null
     context: inline
     line: 352
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-021
@@ -1916,6 +2021,7 @@ references:
     license: null
     context: inline
     line: 356
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-022
@@ -1934,6 +2040,7 @@ references:
     license: null
     context: inline
     line: 360
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-023
@@ -1952,6 +2059,7 @@ references:
     license: null
     context: inline
     line: 362
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-024
@@ -1970,6 +2078,7 @@ references:
     license: null
     context: inline
     line: 364
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-025
@@ -1977,7 +2086,7 @@ references:
     type: web-article
     authors: ""
     date: ""
-    title: "<u><span>Huawei Says US Sanctions Will Reduce Revenue by $30 Billion</span></u>"
+    title: "<u><span>Wired article</span></u>"
     source: "wired.com"
     url: "https://www.wired.com/story/huawei-says-us-sanctions-reduce-revenue-dollar30-billion/"
     clean_url: "https://www.wired.com/story/huawei-says-us-sanctions-reduce-revenue-dollar30-billion/"
@@ -1988,6 +2097,7 @@ references:
     license: null
     context: inline
     line: 370
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch19-026
@@ -2006,6 +2116,7 @@ references:
     license: null
     context: inline
     line: 372
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-001
@@ -2024,6 +2135,7 @@ references:
     license: null
     context: html-comment
     line: 15
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-002
@@ -2042,6 +2154,7 @@ references:
     license: null
     context: inline
     line: 25
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-003
@@ -2060,6 +2173,7 @@ references:
     license: null
     context: inline
     line: 41
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-004
@@ -2078,6 +2192,7 @@ references:
     license: null
     context: inline
     line: 41
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-005
@@ -2096,6 +2211,7 @@ references:
     license: null
     context: inline
     line: 41
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-006
@@ -2114,6 +2230,7 @@ references:
     license: null
     context: inline
     line: 41
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-007
@@ -2132,6 +2249,7 @@ references:
     license: null
     context: inline
     line: 67
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-008
@@ -2150,6 +2268,7 @@ references:
     license: null
     context: inline
     line: 127
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-009
@@ -2168,6 +2287,7 @@ references:
     license: null
     context: inline
     line: 129
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-010
@@ -2175,7 +2295,7 @@ references:
     type: web-article
     authors: ""
     date: ""
-    title: "**<u><span>FDA guidance</span></u>**"
+    title: "<u><span>Federal Trade Commission</span></u>"
     source: "ftc.gov"
     url: "https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
     clean_url: "https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure"
@@ -2186,6 +2306,7 @@ references:
     license: null
     context: inline
     line: 131
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-011
@@ -2204,6 +2325,7 @@ references:
     license: null
     context: inline
     line: 155
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-012
@@ -2222,6 +2344,7 @@ references:
     license: null
     context: inline
     line: 177
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-013
@@ -2240,6 +2363,7 @@ references:
     license: null
     context: inline
     line: 177
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-014
@@ -2258,6 +2382,7 @@ references:
     license: null
     context: inline
     line: 178
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-015
@@ -2276,6 +2401,7 @@ references:
     license: null
     context: inline
     line: 178
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-016
@@ -2294,6 +2420,7 @@ references:
     license: null
     context: inline
     line: 178
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-017
@@ -2312,6 +2439,7 @@ references:
     license: null
     context: inline
     line: 253
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-018
@@ -2330,6 +2458,7 @@ references:
     license: null
     context: inline
     line: 255
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-019
@@ -2348,6 +2477,7 @@ references:
     license: null
     context: inline
     line: 255
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch20-020
@@ -2366,6 +2496,7 @@ references:
     license: null
     context: inline
     line: 257
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-001
@@ -2384,6 +2515,7 @@ references:
     license: null
     context: further-reading
     line: 19
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-002
@@ -2402,6 +2534,7 @@ references:
     license: null
     context: inline
     line: 23
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-003
@@ -2420,6 +2553,7 @@ references:
     license: null
     context: inline
     line: 23
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-004
@@ -2438,6 +2572,7 @@ references:
     license: null
     context: inline
     line: 35
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-005
@@ -2456,6 +2591,7 @@ references:
     license: null
     context: inline
     line: 37
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-006
@@ -2474,6 +2610,7 @@ references:
     license: null
     context: inline
     line: 37
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-007
@@ -2492,6 +2629,7 @@ references:
     license: null
     context: inline
     line: 39
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-008
@@ -2510,6 +2648,7 @@ references:
     license: null
     context: further-reading
     line: 71
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-009
@@ -2517,7 +2656,7 @@ references:
     type: web-article
     authors: ""
     date: ""
-    title: "<u><span>\"Smart Tangibles\", the book, is due 2026. You can read about it here</span></u>"
+    title: "<u><span>\\\"Smart Tangibles\\\", the book, is due 2026. You can read about it here</span></u>"
     source: "theroadtlv.com"
     url: "https://www.theroadtlv.com/post/smart-tangibles"
     clean_url: "https://www.theroadtlv.com/post/smart-tangibles"
@@ -2528,6 +2667,7 @@ references:
     license: null
     context: further-reading
     line: 73
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch21-010
@@ -2546,6 +2686,7 @@ references:
     license: null
     context: further-reading
     line: 77
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-001
@@ -2564,6 +2705,7 @@ references:
     license: null
     context: inline
     line: 50
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-002
@@ -2582,6 +2724,7 @@ references:
     license: null
     context: inline
     line: 74
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-003
@@ -2600,6 +2743,7 @@ references:
     license: null
     context: inline
     line: 92
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-004
@@ -2618,6 +2762,7 @@ references:
     license: null
     context: inline
     line: 114
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-005
@@ -2636,6 +2781,7 @@ references:
     license: null
     context: inline
     line: 140
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-006
@@ -2654,6 +2800,7 @@ references:
     license: null
     context: inline
     line: 178
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-007
@@ -2672,6 +2819,7 @@ references:
     license: null
     context: inline
     line: 212
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-008
@@ -2690,6 +2838,7 @@ references:
     license: null
     context: inline
     line: 224
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-009
@@ -2708,6 +2857,7 @@ references:
     license: null
     context: inline
     line: 272
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-010
@@ -2726,6 +2876,7 @@ references:
     license: null
     context: inline
     line: 390
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-011
@@ -2744,6 +2895,7 @@ references:
     license: null
     context: inline
     line: 390
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch22-012
@@ -2762,6 +2914,7 @@ references:
     license: null
     context: inline
     line: 422
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch23-001
@@ -2780,6 +2933,7 @@ references:
     license: null
     context: figure-caption
     line: 126
+    status: active
     companion_site: false
     notes: "Figure 23.9"
   - id: ref-ch23-002
@@ -2798,6 +2952,7 @@ references:
     license: null
     context: figure-caption
     line: 212
+    status: active
     companion_site: false
     notes: "Figure 23.14"
   - id: ref-ch24-001
@@ -2816,6 +2971,7 @@ references:
     license: null
     context: figure-caption
     line: 19
+    status: active
     companion_site: false
     notes: "Figure 24.1"
   - id: ref-ch24-002
@@ -2834,6 +2990,7 @@ references:
     license: null
     context: inline
     line: 47
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch24-003
@@ -2852,6 +3009,7 @@ references:
     license: null
     context: figure-caption
     line: 163
+    status: active
     companion_site: false
     notes: "Figure 24.9"
   - id: ref-ch24-004
@@ -2870,6 +3028,7 @@ references:
     license: null
     context: figure-caption
     line: 191
+    status: active
     companion_site: false
     notes: "Figure 24.10"
   - id: ref-ch24-005
@@ -2888,6 +3047,7 @@ references:
     license: null
     context: inline
     line: 207
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch24-006
@@ -2906,6 +3066,7 @@ references:
     license: null
     context: figure-caption
     line: 251
+    status: active
     companion_site: false
     notes: "Figure 24.12"
   - id: ref-ch25-001
@@ -2924,6 +3085,7 @@ references:
     license: null
     context: inline
     line: 19
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-002
@@ -2942,6 +3104,7 @@ references:
     license: null
     context: inline
     line: 19
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-003
@@ -2960,6 +3123,7 @@ references:
     license: null
     context: inline
     line: 19
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-004
@@ -2978,6 +3142,7 @@ references:
     license: null
     context: inline
     line: 39
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-005
@@ -2996,6 +3161,7 @@ references:
     license: null
     context: inline
     line: 39
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-006
@@ -3014,6 +3180,7 @@ references:
     license: null
     context: figure-caption
     line: 51
+    status: active
     companion_site: false
     notes: "Figure 25.4"
   - id: ref-ch25-007
@@ -3032,6 +3199,7 @@ references:
     license: null
     context: figure-caption
     line: 63
+    status: active
     companion_site: false
     notes: "Figure 25.5"
   - id: ref-ch25-008
@@ -3050,6 +3218,7 @@ references:
     license: null
     context: figure-caption
     line: 63
+    status: active
     companion_site: false
     notes: "Figure 25.5"
   - id: ref-ch25-009
@@ -3068,6 +3237,7 @@ references:
     license: null
     context: inline
     line: 173
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-010
@@ -3086,6 +3256,7 @@ references:
     license: null
     context: inline
     line: 195
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-011
@@ -3104,6 +3275,7 @@ references:
     license: null
     context: inline
     line: 267
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-012
@@ -3122,6 +3294,7 @@ references:
     license: null
     context: inline
     line: 331
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-013
@@ -3140,6 +3313,7 @@ references:
     license: null
     context: inline
     line: 333
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-014
@@ -3158,6 +3332,7 @@ references:
     license: null
     context: inline
     line: 343
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-015
@@ -3176,6 +3351,7 @@ references:
     license: null
     context: inline
     line: 344
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-016
@@ -3194,6 +3370,7 @@ references:
     license: null
     context: inline
     line: 345
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-017
@@ -3212,6 +3389,7 @@ references:
     license: null
     context: inline
     line: 346
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-018
@@ -3230,6 +3408,7 @@ references:
     license: null
     context: inline
     line: 347
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-019
@@ -3248,6 +3427,7 @@ references:
     license: null
     context: inline
     line: 348
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch25-020
@@ -3266,6 +3446,7 @@ references:
     license: null
     context: inline
     line: 349
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch03-001
@@ -3284,6 +3465,7 @@ references:
     license: null
     context: inline
     line: 25
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch03-002
@@ -3302,6 +3484,7 @@ references:
     license: null
     context: inline
     line: 29
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch03-003
@@ -3320,6 +3503,7 @@ references:
     license: null
     context: inline
     line: 45
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch03-004
@@ -3338,6 +3522,7 @@ references:
     license: null
     context: inline
     line: 108
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch03-005
@@ -3356,6 +3541,7 @@ references:
     license: null
     context: figure-caption
     line: 126
+    status: active
     companion_site: false
     notes: "Figure 3.8"
   - id: ref-ch03-006
@@ -3374,6 +3560,7 @@ references:
     license: null
     context: inline
     line: 165
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch03-007
@@ -3392,6 +3579,7 @@ references:
     license: null
     context: figure-caption
     line: 212
+    status: active
     companion_site: false
     notes: "Figure 3.14"
   - id: ref-ch03-008
@@ -3410,6 +3598,7 @@ references:
     license: null
     context: endnote
     line: 333
+    status: active
     companion_site: false
     notes: "Endnote reference"
   - id: ref-ch03-009
@@ -3428,6 +3617,7 @@ references:
     license: null
     context: inline
     line: 334
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch04-001
@@ -3446,6 +3636,7 @@ references:
     license: null
     context: inline
     line: 144
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch04-002
@@ -3464,6 +3655,7 @@ references:
     license: null
     context: inline
     line: 145
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch04-003
@@ -3482,6 +3674,7 @@ references:
     license: null
     context: inline
     line: 146
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch05-001
@@ -3500,6 +3693,7 @@ references:
     license: null
     context: figure-caption
     line: 70
+    status: active
     companion_site: false
     notes: "Figure 5.3"
   - id: ref-ch05-002
@@ -3518,6 +3712,7 @@ references:
     license: null
     context: figure-caption
     line: 70
+    status: active
     companion_site: false
     notes: "Figure 5.3"
   - id: ref-ch05-003
@@ -3536,6 +3731,7 @@ references:
     license: null
     context: figure-caption
     line: 70
+    status: active
     companion_site: false
     notes: "Figure 5.3"
   - id: ref-ch05-004
@@ -3554,6 +3750,7 @@ references:
     license: null
     context: figure-caption
     line: 101
+    status: active
     companion_site: false
     notes: "Figure 5.5"
   - id: ref-ch05-005
@@ -3572,6 +3769,7 @@ references:
     license: null
     context: figure-caption
     line: 130
+    status: active
     companion_site: false
     notes: "Figure 5.7"
   - id: ref-ch05-006
@@ -3590,6 +3788,7 @@ references:
     license: null
     context: figure-caption
     line: 152
+    status: active
     companion_site: false
     notes: "Figure 5.8"
   - id: ref-ch05-007
@@ -3608,6 +3807,7 @@ references:
     license: null
     context: figure-caption
     line: 152
+    status: active
     companion_site: false
     notes: "Figure 5.8"
   - id: ref-ch05-008
@@ -3626,6 +3826,7 @@ references:
     license: null
     context: figure-caption
     line: 171
+    status: active
     companion_site: false
     notes: "Figure 5.9"
   - id: ref-ch06-001
@@ -3644,6 +3845,7 @@ references:
     license: null
     context: figure-caption
     line: 32
+    status: active
     companion_site: false
     notes: "Figure 6.1"
   - id: ref-ch06-002
@@ -3662,6 +3864,7 @@ references:
     license: null
     context: inline
     line: 95
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch06-003
@@ -3680,6 +3883,7 @@ references:
     license: null
     context: figure-caption
     line: 123
+    status: active
     companion_site: false
     notes: "Figure 6.6"
   - id: ref-ch07-001
@@ -3698,6 +3902,7 @@ references:
     license: null
     context: figure-caption
     line: 26
+    status: active
     companion_site: false
     notes: "Figure 7.1"
   - id: ref-ch07-002
@@ -3716,6 +3921,7 @@ references:
     license: null
     context: figure-caption
     line: 38
+    status: active
     companion_site: false
     notes: "Figure 7.2"
   - id: ref-ch07-003
@@ -3734,6 +3940,7 @@ references:
     license: null
     context: figure-caption
     line: 46
+    status: active
     companion_site: false
     notes: "Figure 7.3"
   - id: ref-ch08-001
@@ -3752,6 +3959,7 @@ references:
     license: null
     context: inline
     line: 29
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-002
@@ -3770,6 +3978,7 @@ references:
     license: null
     context: inline
     line: 30
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-003
@@ -3788,6 +3997,7 @@ references:
     license: null
     context: inline
     line: 30
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-004
@@ -3806,6 +4016,7 @@ references:
     license: null
     context: inline
     line: 31
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-005
@@ -3824,6 +4035,7 @@ references:
     license: null
     context: inline
     line: 36
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-006
@@ -3842,6 +4054,7 @@ references:
     license: null
     context: inline
     line: 40
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-007
@@ -3860,6 +4073,7 @@ references:
     license: null
     context: inline
     line: 41
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-008
@@ -3878,6 +4092,7 @@ references:
     license: null
     context: inline
     line: 45
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-009
@@ -3896,6 +4111,7 @@ references:
     license: null
     context: inline
     line: 51
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-010
@@ -3914,6 +4130,7 @@ references:
     license: null
     context: inline
     line: 52
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-011
@@ -3932,6 +4149,7 @@ references:
     license: null
     context: inline
     line: 54
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-012
@@ -3950,6 +4168,7 @@ references:
     license: null
     context: inline
     line: 81
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-013
@@ -3968,6 +4187,7 @@ references:
     license: null
     context: inline
     line: 108
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-014
@@ -3986,6 +4206,7 @@ references:
     license: null
     context: inline
     line: 134
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-015
@@ -4004,6 +4225,7 @@ references:
     license: null
     context: inline
     line: 134
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-016
@@ -4022,6 +4244,7 @@ references:
     license: null
     context: inline
     line: 134
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch08-017
@@ -4040,6 +4263,7 @@ references:
     license: null
     context: inline
     line: 134
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch04-004
@@ -4058,6 +4282,7 @@ references:
     license: null
     context: inline
     line: 109
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch04-005
@@ -4076,6 +4301,7 @@ references:
     license: null
     context: inline
     line: 111
+    status: active
     companion_site: false
     notes: ""
   - id: ref-ch04-006
@@ -4094,5 +4320,6 @@ references:
     license: null
     context: inline
     line: 113
+    status: active
     companion_site: false
     notes: ""

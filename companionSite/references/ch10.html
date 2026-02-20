@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Chapter 10 — Chapter 10: References — Smart Tangibles Reference Directory">
+    <title>Chapter 10 — Chapter 10: References | Smart Tangibles</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .ref-page { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; padding-top: 5rem; }
+        .ref-page h1 { margin-bottom: 0.5rem; }
+        .ref-page .subtitle { color: var(--color-text-light); margin-bottom: 2rem; }
+        .ref-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+        .ref-table th { text-align: left; padding: 0.75rem; border-bottom: 2px solid var(--color-border);
+                        font-size: var(--font-size-sm); color: var(--color-text-light);
+                        text-transform: uppercase; letter-spacing: 0.5px; }
+        .ref-table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border-light);
+                        font-size: var(--font-size-sm); vertical-align: top; }
+        .ref-table tr:hover { background-color: var(--color-bg-alt); }
+        .ref-num { color: var(--color-text-muted); font-weight: 600; white-space: nowrap; }
+        .ref-title { font-weight: 500; color: var(--color-text); }
+        .ref-source { color: var(--color-text-muted); font-size: var(--font-size-xs); }
+        .ref-links { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+        .ref-links a { display: inline-flex; align-items: center; padding: 0.25rem 0.5rem;
+                       border-radius: 4px; font-size: var(--font-size-xs); font-weight: 500;
+                       border: 1px solid var(--color-border); color: var(--color-text); }
+        .ref-links a:hover { background-color: var(--color-primary); color: white;
+                             border-color: var(--color-primary); }
+        .ref-links .archive-link { color: var(--color-accent); border-color: var(--color-accent); }
+        .ref-links .archive-link:hover { background-color: var(--color-accent); color: white; }
+        .status-archived { color: var(--color-success); }
+        .status-noarchive { color: var(--color-warning); }
+        .status-removed { color: var(--color-text-muted); }
+        .chapter-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                        gap: 1rem; margin: 2rem 0; }
+        .chapter-link { display: block; padding: 1.25rem; border: 1px solid var(--color-border);
+                        border-radius: var(--border-radius-lg); transition: all 0.2s ease; }
+        .chapter-link:hover { border-color: var(--color-primary); box-shadow: var(--shadow-md);
+                              transform: translateY(-2px); }
+        .chapter-link .ch-num { font-size: var(--font-size-sm); font-weight: 700;
+                                color: var(--color-primary); }
+        .chapter-link h3 { font-size: var(--font-size-base); margin: 0.25rem 0; color: var(--color-text); }
+        .chapter-link .ch-count { font-size: var(--font-size-sm); color: var(--color-text-muted); }
+        .feedback-bar { margin-top: 2rem; padding: 1rem 1.5rem; background: var(--color-bg-alt);
+                        border-radius: var(--border-radius); display: flex; align-items: center;
+                        justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
+        .feedback-bar p { color: var(--color-text-light); font-size: var(--font-size-sm); margin: 0; }
+        .feedback-bar a { font-size: var(--font-size-sm); font-weight: 500; }
+        .back-link { display: inline-flex; align-items: center; gap: 0.25rem;
+                     font-size: var(--font-size-sm); margin-bottom: 1rem; }
+        .generated-note { text-align: center; color: var(--color-text-muted);
+                          font-size: var(--font-size-xs); margin-top: 3rem;
+                          padding-top: 1.5rem; border-top: 1px solid var(--color-border-light); }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-logo">
+                <span class="logo-smart">Smart</span><span class="logo-tangibles">Tangibles</span>
+            </a>
+            <ul class="nav-menu">
+                <li><a href="../index.html#tools">Tools</a></li>
+                <li><a href="../references/">References</a></li>
+                <li><a href="../index.html#book">The Book</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="ref-page">
+        <a href="index.html" class="back-link">&larr; All chapters</a>
+        <h1>Chapter 10 — Chapter 10</h1>
+        <p class="subtitle">21 references</p>
+
+        <table class="ref-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Reference</th>
+                    <th>Links</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="ref-num">1</td>
+                    <td><span class="ref-title">Matter 1.5</span> <span class="ref-source">csa-iot.org</span></td>
+                    <td class="ref-links"><a href="https://csa-iot.org/all-solutions/matter/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260127095411/https://csa-iot.org/all-solutions/matter/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">2</td>
+                    <td><span class="ref-title">Series 3</span> <span class="ref-source">silabs.com</span></td>
+                    <td class="ref-links"><a href="https://www.silabs.com/wireless/series-3-wireless-platform" target="_blank" rel="noopener">Source</a></td>
+                    <td><span class="status-noarchive">&#x1F7E1; No archive</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">3</td>
+                    <td><span class="ref-title">UWB</span> <span class="ref-source">standards.ieee.org</span></td>
+                    <td class="ref-links"><a href="https://standards.ieee.org/ieee/802.15.4z/10230/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251208074231/https://standards.ieee.org/ieee/802.15.4z/10230/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">4</td>
+                    <td><span class="ref-title">TPM 2.0</span> <span class="ref-source">trustedcomputinggroup.org</span></td>
+                    <td class="ref-links"><a href="https://trustedcomputinggroup.org/resource/tpm-library-specification/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260123061956/https://trustedcomputinggroup.org/resource/tpm-library-specification/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">5</td>
+                    <td><span class="ref-title">Google Coral NPU</span> <span class="ref-source">developers.google.com</span></td>
+                    <td class="ref-links"><a href="https://developers.google.com/coral" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260117002538/https://developers.google.com/coral" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">6</td>
+                    <td><span class="ref-title">open-source</span> <span class="ref-source">github.com</span></td>
+                    <td class="ref-links"><a href="https://github.com/google-coral/coralnpu" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251222055631/https://github.com/google-coral/coralnpu" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">7</td>
+                    <td><span class="ref-title">STMicroelectronics STM32V8</span> <span class="ref-source">newsroom.st.com</span></td>
+                    <td class="ref-links"><a href="https://newsroom.st.com/media-center/press-item.html/p4733.html" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260218185215/https://newsroom.st.com/media-center/press-item.html/p4733.html" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">8</td>
+                    <td><span class="ref-title">Ethos NPU family</span> <span class="ref-source">arm.com</span></td>
+                    <td class="ref-links"><a href="https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251211031842/https://www.arm.com/products/silicon-ip-cpu/ethos/ethos-u55" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">9</td>
+                    <td><span class="ref-title">nRF54L</span> <span class="ref-source">nordicsemi.com</span></td>
+                    <td class="ref-links"><a href="https://www.nordicsemi.com/Products/Technologies/Edge-AI/Axon-NPU" target="_blank" rel="noopener">Source</a></td>
+                    <td><span class="status-noarchive">&#x1F7E1; No archive</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">10</td>
+                    <td><span class="ref-title">Schneider Electric EcoStruxure Foresight Operation</span> <span class="ref-source">se.com</span></td>
+                    <td class="ref-links"><a href="https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric%E2%80%99s-ecostruxure-foresight-operation-ushers-in-a-new-era-for-the-built-environment-691afab27594b4250a019d43/" target="_blank" rel="noopener">Source</a></td>
+                    <td><span class="status-noarchive">&#x1F7E1; No archive</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">11</td>
+                    <td><span class="ref-title">ISA/IEC 62443</span> <span class="ref-source">isa.org</span></td>
+                    <td class="ref-links"><a href="https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260126014423/https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">12</td>
+                    <td><span class="ref-title">NB-IoT</span> <span class="ref-source">3gpp.org</span></td>
+                    <td class="ref-links"><a href="https://www.3gpp.org/news-events/3gpp-news/nb-iot-complete" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251007030915/https://www.3gpp.org/news-events/3gpp-news/nb-iot-complete" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">13</td>
+                    <td><span class="ref-title">MediaTek&#x27;s Dimensity 9500</span> <span class="ref-source">mediatek.com</span></td>
+                    <td class="ref-links"><a href="https://www.mediatek.com/products/smartphones/mediatek-dimensity-9500" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260114072337/https://www.mediatek.com/products/smartphones/mediatek-dimensity-9500" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">14</td>
+                    <td><span class="ref-title">NVIDIA Omniverse</span> <span class="ref-source">nvidia.com</span></td>
+                    <td class="ref-links"><a href="https://www.nvidia.com/en-us/omniverse/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260122071413/https://www.nvidia.com/en-us/omniverse/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">15</td>
+                    <td><span class="ref-title">Infineon PSoC Edge</span> <span class="ref-source">infineon.com</span></td>
+                    <td class="ref-links"><a href="https://www.infineon.com/promo/next-generation-mcu" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251213122900/https://www.infineon.com/promo/next-generation-mcu" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">16</td>
+                    <td><span class="ref-title">PSA Certified</span> <span class="ref-source">psacertified.org</span></td>
+                    <td class="ref-links"><a href="https://www.psacertified.org/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260108120308/https://www.psacertified.org/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">17</td>
+                    <td><span class="ref-title">US Cyber Trust Mark</span> <span class="ref-source">nist.gov</span></td>
+                    <td class="ref-links"><a href="https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program/consumer-iot-cybersecurity" target="_blank" rel="noopener">Source</a></td>
+                    <td><span class="status-noarchive">&#x1F7E1; No archive</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">18</td>
+                    <td><span class="ref-title">ISO/IEC 27404:2025</span> <span class="ref-source">iso.org</span></td>
+                    <td class="ref-links"><a href="https://www.iso.org/standard/80138.html" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251128115030/https://www.iso.org/standard/80138.html" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">19</td>
+                    <td><span class="ref-title">ETSI EN 303 645</span> <span class="ref-source">etsi.org</span></td>
+                    <td class="ref-links"><a href="https://www.etsi.org/technologies/consumer-iot-security" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260112084158/https://www.etsi.org/technologies/consumer-iot-security" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">20</td>
+                    <td><span class="ref-title">EU Radio Equipment Directive (RED)</span> <span class="ref-source">single-market-economy.ec.europa.eu</span></td>
+                    <td class="ref-links"><a href="https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red_en" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260219231049/https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red_en" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">21</td>
+                    <td><span class="ref-title">EU Cyber Resilience Act (CRA)</span> <span class="ref-source">digital-strategy.ec.europa.eu</span></td>
+                    <td class="ref-links"><a href="https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260220092149/https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+            </tbody>
+        </table>
+    <div class="feedback-bar">
+        <p>Found a broken link or outdated source?</p>
+        <div>
+            <a href="https://github.com/yoelf22/manuscript/issues/new?title=Broken+link+in+Chapter+10&amp;labels=broken-link" target="_blank" rel="noopener">Report on GitHub</a>
+            &nbsp;&bull;&nbsp;
+            <a href="mailto:yoel@theroad.co.il?subject=Broken%20link%20report%20-%20Chapter%2010">Email report</a>
+        </div>
+    </div>
+    </div>
+
+    <p class="generated-note">
+        Reference directory generated on 2026-02-20 by
+        <a href="https://github.com/yoelf22/manuscript">Smart Tangibles reference tools</a>.
+    </p>
+</body>
+</html>

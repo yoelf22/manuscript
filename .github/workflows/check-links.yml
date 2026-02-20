@@ -1,0 +1,41 @@
+name: Monthly Link Health Check
+
+on:
+  schedule:
+    - cron: '0 9 1 * *'  # First of each month at 9am UTC
+  workflow_dispatch:       # Manual trigger from GitHub UI
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run link health check
+        run: python tools/check-links.py --input references.yaml --report reports/link-health.md --timeout 20 --parallel 3
+
+      - name: Archive new Wayback snapshots
+        run: python tools/archive-refs.py --skip-existing --delay 1
+
+      - name: Regenerate companion site reference pages
+        run: python tools/export-companion.py --input references.yaml
+
+      - name: Commit updated reports and references
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/ references.yaml companionSite/references/
+          git diff --staged --quiet || git commit -m "Monthly link health check — $(date +%Y-%m-%d)"
+          git push

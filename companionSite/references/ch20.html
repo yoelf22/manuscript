@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Chapter 20 — Chapter 20: References — Smart Tangibles Reference Directory">
+    <title>Chapter 20 — Chapter 20: References | Smart Tangibles</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .ref-page { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; padding-top: 5rem; }
+        .ref-page h1 { margin-bottom: 0.5rem; }
+        .ref-page .subtitle { color: var(--color-text-light); margin-bottom: 2rem; }
+        .ref-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+        .ref-table th { text-align: left; padding: 0.75rem; border-bottom: 2px solid var(--color-border);
+                        font-size: var(--font-size-sm); color: var(--color-text-light);
+                        text-transform: uppercase; letter-spacing: 0.5px; }
+        .ref-table td { padding: 0.75rem; border-bottom: 1px solid var(--color-border-light);
+                        font-size: var(--font-size-sm); vertical-align: top; }
+        .ref-table tr:hover { background-color: var(--color-bg-alt); }
+        .ref-num { color: var(--color-text-muted); font-weight: 600; white-space: nowrap; }
+        .ref-title { font-weight: 500; color: var(--color-text); }
+        .ref-source { color: var(--color-text-muted); font-size: var(--font-size-xs); }
+        .ref-links { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+        .ref-links a { display: inline-flex; align-items: center; padding: 0.25rem 0.5rem;
+                       border-radius: 4px; font-size: var(--font-size-xs); font-weight: 500;
+                       border: 1px solid var(--color-border); color: var(--color-text); }
+        .ref-links a:hover { background-color: var(--color-primary); color: white;
+                             border-color: var(--color-primary); }
+        .ref-links .archive-link { color: var(--color-accent); border-color: var(--color-accent); }
+        .ref-links .archive-link:hover { background-color: var(--color-accent); color: white; }
+        .status-archived { color: var(--color-success); }
+        .status-noarchive { color: var(--color-warning); }
+        .status-removed { color: var(--color-text-muted); }
+        .chapter-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+                        gap: 1rem; margin: 2rem 0; }
+        .chapter-link { display: block; padding: 1.25rem; border: 1px solid var(--color-border);
+                        border-radius: var(--border-radius-lg); transition: all 0.2s ease; }
+        .chapter-link:hover { border-color: var(--color-primary); box-shadow: var(--shadow-md);
+                              transform: translateY(-2px); }
+        .chapter-link .ch-num { font-size: var(--font-size-sm); font-weight: 700;
+                                color: var(--color-primary); }
+        .chapter-link h3 { font-size: var(--font-size-base); margin: 0.25rem 0; color: var(--color-text); }
+        .chapter-link .ch-count { font-size: var(--font-size-sm); color: var(--color-text-muted); }
+        .feedback-bar { margin-top: 2rem; padding: 1rem 1.5rem; background: var(--color-bg-alt);
+                        border-radius: var(--border-radius); display: flex; align-items: center;
+                        justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
+        .feedback-bar p { color: var(--color-text-light); font-size: var(--font-size-sm); margin: 0; }
+        .feedback-bar a { font-size: var(--font-size-sm); font-weight: 500; }
+        .back-link { display: inline-flex; align-items: center; gap: 0.25rem;
+                     font-size: var(--font-size-sm); margin-bottom: 1rem; }
+        .generated-note { text-align: center; color: var(--color-text-muted);
+                          font-size: var(--font-size-xs); margin-top: 3rem;
+                          padding-top: 1.5rem; border-top: 1px solid var(--color-border-light); }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../index.html" class="nav-logo">
+                <span class="logo-smart">Smart</span><span class="logo-tangibles">Tangibles</span>
+            </a>
+            <ul class="nav-menu">
+                <li><a href="../index.html#tools">Tools</a></li>
+                <li><a href="../references/">References</a></li>
+                <li><a href="../index.html#book">The Book</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="ref-page">
+        <a href="index.html" class="back-link">&larr; All chapters</a>
+        <h1>Chapter 20 — Chapter 20</h1>
+        <p class="subtitle">20 references</p>
+
+        <table class="ref-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Reference</th>
+                    <th>Links</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="ref-num">1</td>
+                    <td><span class="ref-title">press.siemens.com</span> <span class="ref-source">press.siemens.com</span></td>
+                    <td class="ref-links"><a href="https://press.siemens.com/global/en/pressrelease/new-siemens-platform-brings-zero-trust-security-industrial-networks" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251215150527/https://press.siemens.com/global/en/pressrelease/new-siemens-platform-brings-zero-trust-security-industrial-networks" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">2</td>
+                    <td><span class="ref-title">&lt;u&gt;&lt;span&gt;smart tangibles&lt;/span&gt;&lt;/u&gt;</span> <span class="ref-source">theroadtlv.com</span></td>
+                    <td class="ref-links"><a href="https://www.theroadtlv.com/smart-tangibles" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251211192402/https://www.theroadtlv.com/smart-tangibles" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">3</td>
+                    <td><span class="ref-title">&lt;u&gt;&lt;span&gt;adhesive graphic scratch off tapes&lt;/span&gt;&lt;/u&gt;</span> <span class="ref-source">evergreater.en.made-in-china.com</span></td>
+                    <td class="ref-links"><a href="https://evergreater.en.made-in-china.com/product/lOrEMLhCXtWD/China-Adhesive-Scratch-off-Red-Rolls-of-Anti-Tamper-Evident-Seal-Security-Stickers-Scratch-Stickers.html" target="_blank" rel="noopener">Source</a></td>
+                    <td><span class="status-noarchive">&#x1F7E1; No archive</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">4</td>
+                    <td><span class="ref-title">&lt;u&gt;&lt;span&gt;labels&lt;/span&gt;&lt;/u&gt;</span> <span class="ref-source">pfwlabels.com</span></td>
+                    <td class="ref-links"><a href="https://www.pfwlabels.com/product/security-labels-tamper-proof/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20250918091617/https://www.pfwlabels.com/product/security-labels-tamper-proof/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">5</td>
+                    <td><span class="ref-title">&lt;u&gt;&lt;span&gt;wax seals&lt;/span&gt;&lt;/u&gt;</span> <span class="ref-source">durablesupply.com</span></td>
+                    <td class="ref-links"><a href="https://durablesupply.com/dytaprtoma.html?srsltid=AfmBOoq5Ri_4TdN8sW2RdG-9lkL2xY_hcxiaoDLa4cs5_8V7OqZcX2DY" target="_blank" rel="noopener">Source</a></td>
+                    <td><span class="status-noarchive">&#x1F7E1; No archive</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">6</td>
+                    <td><span class="ref-title">&lt;u&gt;&lt;span&gt;snap-off bands&lt;/span&gt;&lt;/u&gt;</span> <span class="ref-source">worldwide.espacenet.com</span></td>
+                    <td class="ref-links"><a href="https://worldwide.espacenet.com/patent/search/family/025454592/publication/US4732293A?q=pn%3DUS4732293" target="_blank" rel="noopener">Source</a></td>
+                    <td><span class="status-noarchive">&#x1F7E1; No archive</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">7</td>
+                    <td><span class="ref-title">&lt;u&gt;&lt;span&gt;FTC guidance&lt;/span&gt;&lt;/u&gt;</span> <span class="ref-source">theroadtlv.com</span></td>
+                    <td class="ref-links"><a href="https://www.theroadtlv.com/post/smart-and-secured-think-again-part2#viewer-i8sgm363422" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20251012050540/https://www.theroadtlv.com/post/smart-and-secured-think-again-part2" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">8</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;ETSI EN 303 645&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">etsi.org</span></td>
+                    <td class="ref-links"><a href="https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260127004934/https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">9</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;US Cyber Trust Mark&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">fcc.gov</span></td>
+                    <td class="ref-links"><a href="https://www.fcc.gov/CyberTrustMark" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260122012514/https://www.fcc.gov/CyberTrustMark" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">10</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;FDA guidance&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">ftc.gov</span></td>
+                    <td class="ref-links"><a href="https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260127193623/https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">11</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;EU GDPR&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">gdpr-info.eu</span></td>
+                    <td class="ref-links"><a href="https://gdpr-info.eu/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260219183940/https://gdpr-info.eu/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">12</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;HackerOne&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">hackerone.com</span></td>
+                    <td class="ref-links"><a href="https://www.hackerone.com/product/code-security-audit" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260215042319/https://www.hackerone.com/product/code-security-audit" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">13</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;Bugcrowd&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">bugcrowd.com</span></td>
+                    <td class="ref-links"><a href="https://www.bugcrowd.com/resources/guide/ultimate-guide-to-crowdsourced-security-for-saas-companies/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260106211614/https://www.bugcrowd.com/resources/guide/ultimate-guide-to-crowdsourced-security-for-saas-companies/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">14</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;SOC 2&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">imperva.com</span></td>
+                    <td class="ref-links"><a href="https://www.imperva.com/learn/data-security/soc-2-compliance/#:~:text=SOC%202%20is%20an%20auditing,when%20considering%20a%20SaaS%20provider" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260210184834/https://www.imperva.com/learn/data-security/soc-2-compliance/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">15</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;ISO/IEC 27001&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">iso.org</span></td>
+                    <td class="ref-links"><a href="https://www.iso.org/isoiec-27001-information-security.html" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20250223000341/https://www.iso.org/isoiec-27001-information-security.html" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">16</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;Common Criteria&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">commoncriteriaportal.org</span></td>
+                    <td class="ref-links"><a href="https://www.commoncriteriaportal.org/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260119095850/http://www.commoncriteriaportal.org/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">17</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;Privacy Not Included&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">mozillafoundation.org</span></td>
+                    <td class="ref-links"><a href="https://www.mozillafoundation.org/en/privacynotincluded/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260220062055/https://www.mozillafoundation.org/en/privacynotincluded/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">18</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;Framework Laptop&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">frame.work</span></td>
+                    <td class="ref-links"><a href="https://frame.work/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260213215321/https://frame.work/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">19</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;Fairphone&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">fairphone.com</span></td>
+                    <td class="ref-links"><a href="https://www.fairphone.com/" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260125153905/https://www.fairphone.com/" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+                <tr>
+                    <td class="ref-num">20</td>
+                    <td><span class="ref-title">**&lt;u&gt;&lt;span&gt;Apple’s App Tracking Transparency&lt;/span&gt;&lt;/u&gt;**</span> <span class="ref-source">developer.apple.com</span></td>
+                    <td class="ref-links"><a href="https://developer.apple.com/documentation/apptrackingtransparency" target="_blank" rel="noopener">Source</a> <a href="http://web.archive.org/web/20260214013121/https://developer.apple.com/documentation/apptrackingtransparency" target="_blank" rel="noopener" class="archive-link">Archive</a></td>
+                    <td><span class="status-archived">&#x1F7E2; Archived</span></td>
+                </tr>
+            </tbody>
+        </table>
+    <div class="feedback-bar">
+        <p>Found a broken link or outdated source?</p>
+        <div>
+            <a href="https://github.com/yoelf22/manuscript/issues/new?title=Broken+link+in+Chapter+20&amp;labels=broken-link" target="_blank" rel="noopener">Report on GitHub</a>
+            &nbsp;&bull;&nbsp;
+            <a href="mailto:yoel@theroad.co.il?subject=Broken%20link%20report%20-%20Chapter%2020">Email report</a>
+        </div>
+    </div>
+    </div>
+
+    <p class="generated-note">
+        Reference directory generated on 2026-02-20 by
+        <a href="https://github.com/yoelf22/manuscript">Smart Tangibles reference tools</a>.
+    </p>
+</body>
+</html>
