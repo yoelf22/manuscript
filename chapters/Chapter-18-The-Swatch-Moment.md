@@ -485,3 +485,12 @@ Cost and digital longevity are Apple’s key weaknesses - Swatch’s opportunity
 ![User-Generated-Content Watch](../images/fig18-35-user-generated-content-watch.png)
 
 **Figure 18.40 — Your User-Generated-Content Watch**
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 18 References →](https://yoelf22.github.io/manuscript/references/ch18.html)
+
+![Scan for chapter references](../images/qr/ch18-refs.png)

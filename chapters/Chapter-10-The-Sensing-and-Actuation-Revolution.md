@@ -2,7 +2,7 @@
 
 **When Products Learn to Feel — and Reach Back**
 
-![Smart Tangibles: Capabilities and Revenue Streams](../images/fig00-00-capabilities-revenue.jpg)
+![Arc II layer model — Sensing and Actuation by Layer](../images/fig10-00-layer-model-sensing-actuation.png)
 *Arc II layer model: This chapter bridges the **Physical Product** and **Digital and Connectivity** layers — sensors and actuators are physical hardware that generate and act on digital data streams, providing the raw capabilities that intelligence will process.*
 
 ## Opening: From Blind Objects to Aware — and Active — Products
@@ -186,3 +186,12 @@
 - Building environmental intelligence *and* physical response into product strategy
 - The future of ambient computing and invisible interfaces — products that perceive, decide, and act without being asked
 - Sensing and actuation provide the raw capabilities. The next chapter examines what makes them intelligent: matching the right kind of AI to the right class of problem, deployed in the right location (Chapter 11)
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 10 References →](https://yoelf22.github.io/manuscript/references/ch10.html)
+
+![Scan for chapter references](../images/qr/ch10-refs.png)

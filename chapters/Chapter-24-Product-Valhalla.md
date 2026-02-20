@@ -279,3 +279,12 @@ Together, these approaches highlight the dual nature of validation: user-facing 
 #### Validation as a Journey
 
 Validation is never complete until users themselves perceive the value. Structured proxy methods – surveys, mockups, contractual guarantees – do provide a limited upfront confidence. Ultimately, the market decides in a moment: when a customer first touches, sees, or tries the product. The next chapters explore these decisive arenas of experiential validation, from the theater of public demos and unboxing to the disruptive force of killer features.
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 24 References →](https://yoelf22.github.io/manuscript/references/ch24.html)
+
+![Scan for chapter references](../images/qr/ch24-refs.png)

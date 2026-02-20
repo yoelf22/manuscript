@@ -2,8 +2,14 @@
 
 **Mounting the Flexibility Ladder**
 
-![Smart Tangibles: Capabilities and Revenue Streams](../images/fig00-00-capabilities-revenue.jpg)
+![Arc II layer model — Digital Interface Levels by Layer](../images/fig05-00-layer-model-digital-interfaces.png)
 *Arc II layer model: This chapter focuses on the **Digital and Connectivity** layer — how digital interfaces transform fixed physical products into flexible, programmable platforms, enabling every capability layer above.*
+
+---
+
+
+
+## **The Flexibility Ladder**
 
 A fork cannot change what it does after it leaves the factory. Neither can a sofa, a wrench, or a hammer. They are all made immutable. Fixed behavior, fixed configuration. While every product is an answer to the question *what can it do* — wouldn't it be better if that answer could evolve as needed?
 
@@ -16,7 +22,7 @@ This chapter traces that ladder – from products with no interface at all to pr
 ---
 
 
-### Fixed Function: Interface Level 0
+## Fixed Function: Interface Level 0
 
 A 19th-century bicycle offered no human machine interface at all. The rider's legs were the engine, the handlebars steered, the brakes stopped. Whatever feedback existed came directly from the body – the strain in the calves, the pounding heart, the burning lungs signaling effort. Speed was felt as wind on the face. The product itself was pure function: mechanical components serving a single purpose. There was nothing to monitor, nothing to configure, nothing to communicate. As for system monitoring, it was binary. Either the bicycle worked, or it didn't.
 
@@ -31,7 +37,7 @@ The same goes for many mundane objects. Think of a sofa, or a USB plug. No inter
 
 ---
 
-### Analogue Indicators: Interface Level 1
+## Analogue Indicators: Interface Level 1
 
 Other products, however, cannot operate safely without status signals. Left unattended, kettles would boil dry, steam pipes could burst, and an empty fuel tank would stall a car at the worst possible moment.
 
@@ -51,7 +57,7 @@ For drivers this meant being able to monitor fuel levels, temperature, pressure,
 
 ---
 
-### Digital Displays: Interface Level 2
+## Digital Displays: Interface Level 2
 
 For most of history, "digital" meant physical: rotating numeral panels, split-flap boards, carved digits on wheels. These mechanical displays could only show what had been printed or machined onto their elements – limited, slow, and fixed at manufacture.
 
@@ -79,7 +85,7 @@ The earliest electronic displays were LED arrays – bright, robust, and simple.
 
 ---
 
-##### Liquid. Crystal. Display
+### Liquid. Crystal. Display
 
 The Liquid Crystal Display replaced discrete light-emitting diodes with etched regions on a glass substrate, dramatically reducing power consumption and enabling use across a wide range of lighting conditions. More importantly, it loosened the rigid typographic constraints of seven-segment layouts. By etching custom shapes directly into the glass, designers could introduce symbols, icons, and graphic elements alongside digits – enabling richer, application-specific visual languages.
 
@@ -96,7 +102,7 @@ Custom LCDs were visually rich but made production rigid – a tension that woul
 
 ---
 
-##### Dot Matrix
+### Dot Matrix
 
 Dot matrix screens broke that constraint decisively. By treating the display as a grid of addressable pixels rather than predefined shapes, they moved all complexity from the hardware into the controller. The same screen could render letters, multiple languages, symbols, simple graphics, or animations – all defined in software. A single hardware design could now serve multiple markets and evolve through firmware rather than custom glass or tooling, and displays stopped being static components and became interactive, programmable surfaces.
 
@@ -109,7 +115,7 @@ Dot matrix screens broke that constraint decisively. By treating the display as 
 
 ---
 
-##### Color. Sound!
+### Color. Sound!
 
 The introduction of color – and later, sound – expanded the expressive range further still. Color was not merely decorative. It enabled visual hierarchy, grouping, and emphasis, allowing users to parse information faster and with less cognitive effort. Sound added a complementary channel: feedback without requiring visual attention, and temporal cues such as urgency or confirmation.
 
@@ -125,7 +131,7 @@ Together, color and sound allowed interfaces to convey nuance – priority, emot
 
 ---
 
-### Touch: Interface Level 3
+## Touch: Interface Level 3
 
 Anyone trying to draw using a computer mouse knows how unnatural and frustrating the disconnect between pointer and outcome can be. Yes, some do become proficient in digital illustration, overcoming this hand-eye coordination gap, but most of us still miss the immediacy and precision of a pencil tip meeting the paper.
 
@@ -147,7 +153,7 @@ What was lost in the transition — tactile feedback — was offset by two devel
 
 ---
 
-### On Air! Interface Level 4
+## On Air! Interface Level 4
 
 Those of you in the manufacturing domain know how dearly recalls cost: The loss of face, the cost of shipping back and forth, the possibility of sending a technician to climb a ten-meter pole two hundred km from the nearest airport, at 40ºC below, just to update some firmware... What if all this could be avoided?
 
@@ -166,7 +172,7 @@ If you were a Tesla owner in December 2018, you might have woken one morning bef
 
 ---
 
-### Fusion: Interface Level 5
+## Fusion: Interface Level 5
 
 Interfaces are no longer limited to what the user deliberately manipulates. A growing set of input methods – accelerometers, gyroscopes, biometric sensors, temperature probes, cameras, microphones – continuously feed contextual signals into the products we carry and use, often without our awareness.
 
@@ -187,7 +193,7 @@ What changes at this level is the locus of initiative. At every previous level, 
 
 ---
 
-### Outlasting Controls: Interface Level 6
+## Outlasting Controls: Interface Level 6
 
 But what happens when the very purpose of an interface – control and supervision – is itself called into question?
 
@@ -207,10 +213,19 @@ In this sense, autonomy completes a historical loop. Where being driven was once
 
 ---
 
-### The Programmable Face
+## The Programmable Face
 
 From analog gauges through digital displays, touch surfaces, and over-the-air updates to sensor-driven interfaces that act before being asked – each generation of digital interface has given hardware products a more expressive, more flexible, more programmable face. And with programmability comes something physical products never had before: the ability to change after they're built.
 
 The flexibility ladder is not a replacement sequence. Lower levels rarely disappear. Analogue gauges still ship in industrial equipment; seven-segment displays still glow on microwave ovens and fuel pumps; physical buttons persist wherever tactile certainty matters – operating rooms, factory floors, cockpits. What changes is where each level sits in the value chain. As higher levels become available, products that stay behind drift toward commodity. The ladder describes not just what a product can do, but where it competes.
 
 This progression, however, raises an uncomfortable question. We've traced how interfaces grew more capable – yet many products shipping today still fail at something far more basic. They can't tell the user whether they're even working. The most sophisticated interface is worthless if the product feels like a black box. That gap – between capability and legibility – is where we turn next.
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 5 References →](https://yoelf22.github.io/manuscript/references/ch05.html)
+
+![Scan for chapter references](../images/qr/ch05-refs.png)

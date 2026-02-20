@@ -213,3 +213,11 @@ In the chapters ahead, you'll discover:
 
 By the end of Arc I, you'll have a clear map of the modern hardware battlefield - its unique challenges, accelerating threats, and the emerging opportunities that product management discipline can unlock. These foundational insights will prepare you for Arc II, where we explore the digital capabilities that transform static products into smart, evolving platforms.
 
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 0 References →](https://yoelf22.github.io/manuscript/references/ch00.html)
+
+![Scan for chapter references](../images/qr/ch00-refs.png)

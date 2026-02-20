@@ -487,3 +487,12 @@ For firms, this makes careful strategic planning essential. To fully capitalize 
 - Adoption speed and defensibility determine how long the advantage lasts.
 - Ecosystems turn one feature into a flywheel: distribution, complements, and IP convert differentiation into dominance.
 - Strategy must pair invention with capture: pricing, subscriptions, upgrades, and timing.
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 17 References →](https://yoelf22.github.io/manuscript/references/ch17.html)
+
+![Scan for chapter references](../images/qr/ch17-refs.png)

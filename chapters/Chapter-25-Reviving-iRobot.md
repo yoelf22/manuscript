@@ -340,11 +340,22 @@ I have depicted an initial flow for registering businesses and offering services
 
 Estimates were synthesized using recent industry reports, company financials, and market research aggregators. US market split extrapolations were cross-validated by comparing reported global shipments and market share breakdowns from analyst and public company disclosures.
 
-- IDC. (2025, June 23). "Chinese brands suck up more market share in the smart vacuum segment." https://my.idc.com/getdoc.jsp?containerId=prUS53637025
-- Vacuum Wars. (2025, February 16). "Robot vacuum market trends: Are traditional vacuums falling behind?" https://vacuumwars.com/robot-vacuum-market-trends-are-traditional-vacuums-falling-behind/
-- The Robot Report. (2025, August 7). "Can iRobot bounce back? Deep concerns overshadow $127M Q2." https://www.therobotreport.com/can-irobot-bounce-back-deep-concerns-overshadow-127m-q2/
-- Yahoo Finance. (2025, March 18). "Roborock remains the #1 top selling robot vacuum cleaner brand." https://finance.yahoo.com/news/roborock-remains-1-top-selling-054000709.html
-- 36Kr. (2025, April 29). "Roborock's profit twice that of Ecovacs: Floor-cleaning robot market competition." https://eu.36kr.com/en/p/3271134528987524
-- Market.us News. (2025, January 12). "Vacuum cleaner statistics and facts." https://www.news.market.us/vacuum-cleaner-statistics/
-- Statista. (2024, August). "Revenue of iRobot worldwide 2012–2023." https://www.statista.com/statistics/731469/irobot-revenue-worldwide/
+- IDC. (2025, June 23). "Chinese brands suck up more market share in the smart vacuum segment."
+- Vacuum Wars. (2025, February 16). "Robot vacuum market trends: Are traditional vacuums falling behind?"
+- The Robot Report. (2025, August 7). "Can iRobot bounce back? Deep concerns overshadow $127M Q2."
+- Yahoo Finance. (2025, March 18). "Roborock remains the #1 top selling robot vacuum cleaner brand."
+- 36Kr. (2025, April 29). "Roborock's profit twice that of Ecovacs: Floor-cleaning robot market competition."
+- Market.us News. (2025, January 12). "Vacuum cleaner statistics and facts."
+- Statista. (2024, August). "Revenue of iRobot worldwide 2012–2023."
 - Company annual reports and financial disclosures (2021–2025).
+
+[View all Chapter 25 references with live links and archived snapshots →](https://yoelf22.github.io/manuscript/references/ch25.html)
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 25 References →](https://yoelf22.github.io/manuscript/references/ch25.html)
+
+![Scan for chapter references](../images/qr/ch25-refs.png)

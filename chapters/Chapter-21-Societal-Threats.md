@@ -75,3 +75,12 @@ Foster a culture where security, ethics, and **user respect are non-negotiable**
 ##### Further reading:
 
 -   [<u><span>Federal Trade Commission</span></u>](https://www.ftc.gov/business-guidance/resources/careful-connections-keeping-internet-things-secure) **Careful Connections: Keeping the Internet of Things Secure**
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 21 References →](https://yoelf22.github.io/manuscript/references/ch21.html)
+
+![Scan for chapter references](../images/qr/ch21-refs.png)

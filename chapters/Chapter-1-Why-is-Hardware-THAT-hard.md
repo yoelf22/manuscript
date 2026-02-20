@@ -268,3 +268,12 @@ In the upcoming posts, I will discuss trends that help alleviate some of the pai
 In particular, we will examine the effects of the convergence between hardware and software in the form of smart or connected products.
 
 Additionally, I will explore several product management practices that can (and must) be implemented as part of hardware product development.  
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 1 References →](https://yoelf22.github.io/manuscript/references/ch01.html)
+
+![Scan for chapter references](../images/qr/ch01-refs.png)

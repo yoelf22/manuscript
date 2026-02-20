@@ -2,8 +2,12 @@
 
 **Standby Products: From Black Boxes To Value Communication**
 
-![Smart Tangibles: Capabilities and Revenue Streams](../images/fig00-00-capabilities-revenue.jpg)
+![Arc II layer model — Standby Value Communication by Layer](../images/fig06-00-layer-model-value-communication.png)
 *Arc II layer model: This chapter focuses on the **Physical Product** layer — how standby products must communicate their value and readiness, establishing the need for the digital and connectivity capabilities above.*
+
+---
+
+## **The Standby Paradox**
 
 The previous chapter traced how interfaces give users increasing control over active products. But what about products whose normal state is silence — whose job is to do nothing until the moment they are needed?
 
@@ -59,8 +63,9 @@ Would the care home in the previous example renew its contract for a system that
 
 ## The Black Box Problem
 
-![The Black box model. What's missing?](../images/fig06-03-black-box-model-what.png)
-**Figure 6.3 — *The Black box model. What's missing? Illustration by the author***
+![The Black box model. What's missing?](../images/image-20260217170421508.png)**Figure 6.3 — *The Black box model. What's missing? Illustration by the author***
+
+---
 
 This topic came into sharp focus during a conversation with a fellow product manager who works on monitoring devices for intensive care units. The device is used with patients who are only partially conscious and have very limited motor abilities. It monitors their level of awareness, provides auditory stimulation aimed at reducing delirium (ICU syndrome), and serves as a one-way communication channel that allows family members and medical staff to reach out.
 
@@ -157,3 +162,11 @@ Return to the ICU. The blinking LED on that bedside monitor does more than confi
 
 The products in this chapter all struggled with the same gap: they worked, but they could not prove it. Status LEDs made them visible. Self-test buttons made them verifiable. Autonomous monitoring promises to make them accountable. Each step reduces the distance between function and trust – and that distance narrows further still when the product joins a network. The infrastructure layers that follow in this arc exist, in part, to solve the problem this chapter describes.
 
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 6 References →](https://yoelf22.github.io/manuscript/references/ch06.html)
+
+![Scan for chapter references](../images/qr/ch06-refs.png)

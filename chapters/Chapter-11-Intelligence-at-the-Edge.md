@@ -2,7 +2,7 @@
 
 **What Problems Can AI Actually Solve for Physical Products?**
 
-![Smart Tangibles: Capabilities and Revenue Streams](../images/fig00-00-capabilities-revenue.jpg)
+![Arc II layer model — Intelligence by Layer](../images/fig11-00-layer-model-intelligence.png)
 *Arc II layer model: This chapter focuses on the **Cloud Support** layer — AI and ML transform raw sensor data into value-added services, whether processing runs at the edge or in the cloud.*
 
 ## Opening: Why Intelligence?
@@ -552,3 +552,11 @@ There are, however, low-hanging opportunities where the potential risks are mini
 - **Gap**: The rigid, one-size-fits-all irrigation plan cannot adapt to site-specific soil & crop conditions. Without real-time feedback, resource use is suboptimal and crop performance suffers.
 - **AI Edge**: Advanced smart irrigation platforms combine **data fusion** (merging soil moisture, temperature, salinity, rainfall, pressure, and flow data with weather forecasts) with **pattern recognition** to detect evolving crop and soil conditions. Through **continuous autonomous monitoring**, the system dynamically adapts irrigation schedules, optimizing water and energy use while ensuring healthier plant growth and more sustainable farming practices.
 
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 11 References →](https://yoelf22.github.io/manuscript/references/ch11.html)
+
+![Scan for chapter references](../images/qr/ch11-refs.png)

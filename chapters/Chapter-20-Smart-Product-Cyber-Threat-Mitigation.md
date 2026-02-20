@@ -255,3 +255,12 @@ These practices are aligned with [<u><span>FTC guidance</span></u>](https://www.
   -   [**<u><span>Framework Laptop</span></u>**](https://frame.work/) and [**<u><span>Fairphone</span></u>**](https://www.fairphone.com/) embody repairability, transparency, and ethical sourcing in product design.
 
   -   [**<u><span>Apple’s App Tracking Transparency</span></u>**](https://developer.apple.com/documentation/apptrackingtransparency) lets users deny cross-app tracking - reflecting a growing demand for ethical default settings.
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 20 References →](https://yoelf22.github.io/manuscript/references/ch20.html)
+
+![Scan for chapter references](../images/qr/ch20-refs.png)

@@ -442,3 +442,12 @@ The core principle, however, remains the same.
 Note that there are advanced tools to calculate more complex scenarios - but in the above example I chose clarity over sophistication.
 
 Read about Capital Budgeting in Part 4: Extending Customer Lifetime Value
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 22 References →](https://yoelf22.github.io/manuscript/references/ch22.html)
+
+![Scan for chapter references](../images/qr/ch22-refs.png)

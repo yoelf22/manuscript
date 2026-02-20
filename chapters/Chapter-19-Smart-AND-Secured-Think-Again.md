@@ -371,3 +371,11 @@ Read about mitigation in Part 2: [<u><span>Smart Product Cyber Threat Mitigation
 
     -   [<u><span>UK defence firms warn staff against connecting phones to Chinese-made EVs amid espionage fears</span></u>](https://www.computing.co.uk/news/2025/security/uk-defence-firms-warn-staff-against-connecting-phones-to-chinese-made-evs-amid-espionage-fears)
 
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 19 References →](https://yoelf22.github.io/manuscript/references/ch19.html)
+
+![Scan for chapter references](../images/qr/ch19-refs.png)

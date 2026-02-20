@@ -125,3 +125,12 @@ True: No driver in this Waymo / Zeeker Rider-first autonomous vehicle platform. 
 #### Lessons learned
 
 *The autonomous vehicle is a hard nut to crack: A combination of user needs, economic realities, regulatory constraints, technology hurdles will allow for initial business cases to test, and if they succeed, the envelope will gradually push the envelope.*	
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 12 References →](https://yoelf22.github.io/manuscript/references/ch12.html)
+
+![Scan for chapter references](../images/qr/ch12-refs.png)

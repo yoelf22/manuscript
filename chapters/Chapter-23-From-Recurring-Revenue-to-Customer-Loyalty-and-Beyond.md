@@ -332,3 +332,12 @@ That’s how smart products makers can win the long game, with layered cumulativ
 ![Product Capabilities Linked Revenue](../images/fig00-00-capabilities-revenue.jpg)
 
 **Figure 23.19 — Product Capabilities Linked Revenue**
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 23 References →](https://yoelf22.github.io/manuscript/references/ch23.html)
+
+![Scan for chapter references](../images/qr/ch23-refs.png)

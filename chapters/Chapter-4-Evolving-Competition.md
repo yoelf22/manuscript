@@ -141,9 +141,9 @@ That foundation has five layers: digital interfaces, connectivity, sensors, firm
 
 Sales figures and market share trends consolidated from:
 
-- Market.us News, "Vacuum Cleaner Statistics and Facts (2025)," https://www.news.market.us/vacuum-cleaner-statistics/
-- 36Kr, "Roborock's profit twice that of Ecovacs: Floor-cleaning robot market competition," https://eu.36kr.com/en/p/3271134528987524
-- Yahoo Finance, "Roborock remains the #1 top selling robot vacuum cleaner brand," https://finance.yahoo.com/news/roborock-remains-1-top-selling-054000709.html
+- Market.us News, "Vacuum Cleaner Statistics and Facts (2025)"
+- 36Kr, "Roborock's profit twice that of Ecovacs: Floor-cleaning robot market competition"
+- Yahoo Finance, "Roborock remains the #1 top selling robot vacuum cleaner brand"
 - IDC, "Chinese brands suck up more market share in the smart vacuum segment"
 - Vacuum Wars, "Robot vacuum market trends: Are traditional vacuums falling behind?"
 - The Robot Report, "Can iRobot bounce back? Deep concerns overshadow $127M Q2"
@@ -179,3 +179,14 @@ Model refresh cadence:
 - Tesla: 4 core passenger models (S, 3, X, Y); Model S/X refreshed ~2021, Model 3 "Highland" refresh 2023–2024 (6–7 years after launch), Model Y refresh early 2025 (5 years after launch) — approximately 3 major refresh cycles across lineup in a decade
 - Chinese brands (BYD, Nio, XPeng, Zeekr, Leapmotor): Dozens of BEV/NEV nameplates by mid-2020s; typical visible refresh cadence of 2–3 years; well over 20 substantial model updates across major players between 2020–2025
 - Sources: Company announcements, automotive press, industry analyses characterizing Chinese EVs as 3–5 years ahead in styling and in-car technology
+
+[View all Chapter 4 references with live links and archived snapshots →](https://yoelf22.github.io/manuscript/references/ch04.html)
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 4 References →](https://yoelf22.github.io/manuscript/references/ch04.html)
+
+![Scan for chapter references](../images/qr/ch04-refs.png)

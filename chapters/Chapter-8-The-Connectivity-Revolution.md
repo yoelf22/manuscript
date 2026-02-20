@@ -2,7 +2,7 @@
 
 **When Products Join Networks, Everything Changes**
 
-![Smart Tangibles: Capabilities and Revenue Streams](../images/fig00-00-capabilities-revenue.jpg)
+![Arc II layer model — Connectivity Domains by Layer](../images/fig08-00-layer-model-connectivity.png)
 *Arc II layer model: This chapter focuses on the **Digital and Connectivity** layer — the protocols and network infrastructure that connect products to ecosystems, enabling service revenue and every capability layer above.*
 
 ## Opening: The Pipe That Opens the Black Box
@@ -152,3 +152,12 @@
 - But choosing *how* to connect is choosing what kind of participant your product will be: dependent or autonomous, interoperable or differentiated, data-rich or privacy-respecting
 - "Connectivity is assumed, intelligence is expected, and operability is now the competitive axis." The choices you make today determine not just whether your device connects, but whether it can be operated, evolved, and trusted for a decade
   - The pipe is now in place. The next chapter examines what flows through it: firmware updates that turn products into living, evolving systems.
+
+---
+
+**References & Sources**
+All references for this chapter — with live links and archived snapshots — are available at the companion site.
+
+[View Chapter 8 References →](https://yoelf22.github.io/manuscript/references/ch08.html)
+
+![Scan for chapter references](../images/qr/ch08-refs.png)
