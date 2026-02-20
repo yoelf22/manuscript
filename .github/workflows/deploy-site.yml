@@ -1,11 +1,11 @@
-name: Deploy Battery Discharge Chart to GitHub Pages
+name: Deploy Companion Site to GitHub Pages
 
 on:
   push:
     branches: [main]
     paths:
-      - 'companionSite/tools/battery-discharge-chart/**'
-      - '.github/workflows/deploy-battery-chart.yml'
+      - 'companionSite/**'
+      - '.github/workflows/deploy-site.yml'
   workflow_dispatch:
 
 permissions:
@@ -27,15 +27,26 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install and build
+      - name: Build battery discharge chart
         working-directory: companionSite/tools/battery-discharge-chart
         run: |
           npm ci
           npm run build
 
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          # Copy static pages and assets
+          cp companionSite/index.html _site/
+          cp -r companionSite/assets _site/
+          cp -r companionSite/references _site/
+          # Copy tools (only built output, not source/node_modules)
+          mkdir -p _site/tools/battery-discharge-chart
+          cp -r companionSite/tools/battery-discharge-chart/dist/* _site/tools/battery-discharge-chart/
+
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: companionSite/tools/battery-discharge-chart/dist
+          path: _site
 
   deploy:
     needs: build
