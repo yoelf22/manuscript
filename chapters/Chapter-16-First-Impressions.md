@@ -161,4 +161,4 @@ All references for this chapter — with live links and archived snapshots — a
 
 [View Chapter 16 References →](https://yoelf22.github.io/manuscript/references/ch16.html)
 
-![Scan for chapter references](../images/qr/ch16-refs.png)
+[![Scan for chapter references](../images/qr/ch16-refs.png)](https://yoelf22.github.io/manuscript/references/ch16.html)

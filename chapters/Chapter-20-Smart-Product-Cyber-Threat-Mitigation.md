@@ -263,4 +263,4 @@ All references for this chapter — with live links and archived snapshots — a
 
 [View Chapter 20 References →](https://yoelf22.github.io/manuscript/references/ch20.html)
 
-![Scan for chapter references](../images/qr/ch20-refs.png)
+[![Scan for chapter references](../images/qr/ch20-refs.png)](https://yoelf22.github.io/manuscript/references/ch20.html)

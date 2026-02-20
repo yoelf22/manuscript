@@ -84,7 +84,7 @@ All references for this chapter — with live links and archived snapshots — a
 
 [View Chapter {chapter_num} References →](https://yoelf22.github.io/manuscript/references/ch{nn}.html)
 
-![Scan for chapter references](../images/qr/ch{nn}-refs.png)"""
+[![Scan for chapter references](../images/qr/ch{nn}-refs.png)](https://yoelf22.github.io/manuscript/references/ch{nn}.html)"""
 
 
 def build_companion_link(chapter_num):

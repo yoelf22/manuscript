@@ -387,4 +387,4 @@ All references for this chapter — with live links and archived snapshots — a
 
 [View Chapter 7 References →](https://yoelf22.github.io/manuscript/references/ch07.html)
 
-![Scan for chapter references](../images/qr/ch07-refs.png)
+[![Scan for chapter references](../images/qr/ch07-refs.png)](https://yoelf22.github.io/manuscript/references/ch07.html)

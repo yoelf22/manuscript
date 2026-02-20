@@ -450,4 +450,4 @@ All references for this chapter — with live links and archived snapshots — a
 
 [View Chapter 22 References →](https://yoelf22.github.io/manuscript/references/ch22.html)
 
-![Scan for chapter references](../images/qr/ch22-refs.png)
+[![Scan for chapter references](../images/qr/ch22-refs.png)](https://yoelf22.github.io/manuscript/references/ch22.html)
