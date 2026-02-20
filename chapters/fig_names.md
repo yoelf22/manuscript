@@ -1,8 +1,8 @@
 # Figure Names Reference
 
-**Total: 265 figures across 21 chapters**
+**Total: 275 figures across 21 chapters**
 
-Chapters with no content figures: 7, 8, 9 (layer model image only), 14, 21 (no images)
+Chapters with no content figures beyond layer model: 8, 9 (layer model image only), 14, 21 (no images)
 
 | Fig. No. | Ch | Image Filename(s) | Caption | Attribution |
 |----------|----|--------------------|---------|-------------|
@@ -65,6 +65,7 @@ Chapters with no content figures: 7, 8, 9 (layer model image only), 14, 21 (no i
 | 4.6 | 4 | [fig04-06-byd-arista-unsplash.jpg](../chapters/Chapter-4-Evolving-Competition.md) | BYD EV | Photo: Unsplash |
 | 4.7 | 4 | [fig04-07-ev-gross-profit-margin.png](../chapters/Chapter-4-Evolving-Competition.md) | Gross profit margins (%) in the global EV segment (2014–2024) | Author |
 | 4.8 | 4 | [fig04-08-ev-gross-profit-trends.png](../chapters/Chapter-4-Evolving-Competition.md) | Gross profit (in billions USD) for major EV manufacturers (2014–2024) | Author |
+| 5.0 | 5 | [fig05-00-layer-model-digital-interfaces.png](../chapters/Chapter-5-Digital-Interfaces.md) | Arc II layer model — Digital Interface Levels by Layer | Author |
 | 5.1 | 5 | [eye-speak-IglqoAtTaeE-unsplash.jpg](../chapters/Chapter-5-Digital-Interfaces.md), [marcus-urbenz-4xMAiJZPQXI-unsplash.jpg](../chapters/Chapter-5-Digital-Interfaces.md) | Look ma! No interface! | (a) Photo: [Eye Speak](https://unsplash.com/@eyespeak)/Unsplash — (b) Photo by [Marcus Urbenz](https://unsplash.com/@marcusurbenz) on Unsplash |
 | 5.2 | 5 | [crystal-kwok-9XsXOdkdxPQ-unsplash.jpg](../chapters/Chapter-5-Digital-Interfaces.md), [mustafa-ilhan-qTUJmxr9LtY-unsplash.jpg](../chapters/Chapter-5-Digital-Interfaces.md) | Analogue indicators: dials and gauges | (a) Photo: [Crystal Kwok](https://unsplash.com/@spacexuan)/Unsplash — (b) Photo: [Mustafa ILHAN](https://unsplash.com/@mmpower)/Unsplash |
 | 5.3 | 5 | [0_Venise](../chapters/Chapter-5-Digital-Interfaces.md), [_la_Tour_de_l'Horloge_-_Place_Saint-Marc_(2).JPG](../chapters/Chapter-5-Digital-Interfaces.md), [patent 54093.png](../chapters/Chapter-5-Digital-Interfaces.md), [Fallblattanzeigetafel_ausschnitt_ffm_hbf.jpg](../chapters/Chapter-5-Digital-Interfaces.md) | Early Digital displays | (a) [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:0_Venise), CC BY-SA — (b) Patent [DE 54093](https://depatisnet.dpma.de/DepatisNet/depatisnet?window=1&space=menu&content=treffer&action=pdf&docid=DE000000054093A) — (c) [Wikipedia](https://commons.wikimedia.org/wiki/File:Fallblattanzeigetafel_ausschnitt_ffm_hbf.jpg) |
@@ -76,6 +77,7 @@ Chapters with no content figures: 7, 8, 9 (layer model image only), 14, 21 (no i
 | 5.9 | 5 | [73dd11_81e851d1d4a6447abf7706eaac101e96mv2.png](../chapters/Chapter-5-Digital-Interfaces.md), [Screenshot 2026-01-22 at 13.57.21.png](../chapters/Chapter-5-Digital-Interfaces.md) | Over-the-air interface updates | Author |
 | 5.10 | 5 | [73dd11_31bbddd7e48345b7ab03570cac0a8f17mv2.png](../chapters/Chapter-5-Digital-Interfaces.md), [73dd11_11592be716dc48018c4c953299d9938emv2.png](../chapters/Chapter-5-Digital-Interfaces.md) | Multi-modal inputs | Author |
 | 5.11 | 5 | [73dd11_dd265fe3e5d84afebdc2482729e40572mv2.jpg](../chapters/Chapter-5-Digital-Interfaces.md), [73dd11_3fbd62e23148418d9fe773a3ec6d8e59mv2.png](../chapters/Chapter-5-Digital-Interfaces.md) | From Model T to smartphone on wheels | Author |
+| 6.0 | 6 | [fig06-00-layer-model-value-communication.png](../chapters/Chapter-6-The-Machine-That-Goes-Ping.md) | Arc II layer model — Standby Value Communication by Layer | Author |
 | 6.1 | 6 | [fig06-01-flight-data-recorder-displayed.jpg](../chapters/Chapter-6-The-Machine-That-Goes-Ping.md) | Flight Data Recorder (Black Box), displayed at the HAL Aerospace Museum | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flight_data_recorder_displayed_at_HAL_Museum_7893.JPG) |
 | 6.2 | 6 | [fig06-02-machine-that-goes-ping.gif](../chapters/Chapter-6-The-Machine-That-Goes-Ping.md) | The machine that goes PING scene from The Meaning of Life (1983) by Monty Python | Author |
 | 6.3 | 6 | [fig06-03-black-box-model-what.png](../chapters/Chapter-6-The-Machine-That-Goes-Ping.md) | The Black box model. What's missing? | Author |
@@ -84,9 +86,17 @@ Chapters with no content figures: 7, 8, 9 (layer model image only), 14, 21 (no i
 | 6.6 | 6 | [fig06-06-gemini-generated-image.png](../chapters/Chapter-6-The-Machine-That-Goes-Ping.md) | Photorealistic car dashboard featuring an illuminated seatbelt and airbag warning lights | AI-generated: [Gemini 3 Pro](https://gemini.google.com), Google, 2026 |
 | 6.7 | 6 | [fig06-07-sony-playstation-s-reset.jpg](../chapters/Chapter-6-The-Machine-That-Goes-Ping.md) | Sony PlayStation's glorious Reset button | Photo by [Nikita Kachanovsky](https://unsplash.com/photos/black-sony-game-console-D3ZdfBqA4nQ) on Unsplash |
 | 6.8 | 6 | [fig06-08-ground-fault-circuit.webp](../chapters/Chapter-6-The-Machine-That-Goes-Ping.md) | Ground Fault Circuit Interrupter (GFCI) outlet with self-test and reset buttons | Author |
+| 7.0 | 7 | [fig07-00-layer-model-miniaturization.png](../chapters/Chapter-7-The-Driving-Force-of-Miniaturization.md) | Arc II layer model — Miniaturization Fronts by Layer | Author |
+| 7.1 | 7 | [Pila_di_Volta.jpg](../chapters/Chapter-7-The-Driving-Force-of-Miniaturization.md) | Alessandro Volta's electric pile (ca. 1800) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pila_di_Volta.jpg) |
+| 7.2 | 7 | [fig07-02-eniac-beck-snyder-brl.jpg](../chapters/Chapter-7-The-Driving-Force-of-Miniaturization.md) | Glen Beck and Betty Snyder program the ENIAC | U.S. Army Photo, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg) |
+| 7.3 | 7 | [fig07-03-iphone4-a4-mainboard-bug.png](../chapters/Chapter-7-The-Driving-Force-of-Miniaturization.md) | iPhone 4 mainboard with Apple A4 chip | Adapted from Raimond Spekking, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone_4,_model_A1332_-_mainboard-7795.jpg) |
+| 8.0 | 8 | [fig08-00-layer-model-connectivity.png](../chapters/Chapter-8-The-Connectivity-Revolution.md) | Arc II layer model — Connectivity Domains by Layer | Author |
+| 9.0 | 9 | [fig09-00-layer-model-fota.png](../chapters/Chapter-9-Firmware-Over-The-Air.md) | Arc II layer model — Firmware Over The Air by Layer | Author |
+| 10.0 | 10 | [fig10-00-layer-model-sensing-actuation.png](../chapters/Chapter-10-The-Sensing-and-Actuation-Revolution.md) | Arc II layer model — Sensing and Actuation by Layer | Author |
 | 10.1 | 10 | [fig10-01-homefree-patient-wandering.png](../chapters/Chapter-10-The-Sensing-and-Actuation-Revolution.md) | HomeFree patient wandering monitoring bracelets by DMATEK | Author |
 | 10.2 | 10 | [fig10-02-ikea-smart-home-rotary.webp](../chapters/Chapter-10-The-Sensing-and-Actuation-Revolution.md) | IKEA's Matter-based rotary dial remote | Author |
 | 10.3 | 10 | [fig10-03-matter-smart-home-standard.png](../chapters/Chapter-10-The-Sensing-and-Actuation-Revolution.md) | Matter standard logo | Author |
+| 11.0 | 11 | [fig11-00-layer-model-intelligence.png](../chapters/Chapter-11-Intelligence-at-the-Edge.md) | Arc II layer model — Intelligence by Layer | Author |
 | 11.1 | 11 | [poc2prod/fig11-01-data-pipeline-scan-process.png](../chapters/Chapter-11-Intelligence-at-the-Edge.md) | The intended pipeline: scan physical documents, process them with AI, validate the extracted data, and distribute to downstream systems | Author |
 | 11.2 | 11 | [poc2prod/fig11-02-front-end-noise-scan.png](../chapters/Chapter-11-Intelligence-at-the-Edge.md) | Front-end reality: poor scan quality, image compression artifacts, and model hallucinations | Author |
 | 11.3 | 11 | [poc2prod/fig11-03-poc-conclusion-human-loop.png](../chapters/Chapter-11-Intelligence-at-the-Edge.md) | The PoC "succeeded" in the narrow sense | Author |

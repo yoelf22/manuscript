@@ -2,7 +2,7 @@
 
 > **From Products to Living Systems**
 
-![Smart Tangibles: Capabilities and Revenue Streams](../images/fig00-00-capabilities-revenue.jpg)
+![Arc II layer model — Firmware Over The Air by Layer](../images/fig09-00-layer-model-fota.png)
 *Arc II layer model: This chapter bridges the **Digital and Connectivity** and **Cloud Support** layers — over-the-air updates require connectivity infrastructure and cloud backend to turn static products into evolving platforms.*
 
 ## **Introduction: The Hardware Transformation**

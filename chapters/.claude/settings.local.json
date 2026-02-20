@@ -29,7 +29,15 @@
       "Bash(do echo \"Line $line_num: $content\")",
       "Bash(git add:*)",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nUpdate fig_names.md with complete figure reference for all 265 figures\n\nRegenerated from current chapter content after figure captioning and\nchapter renumbering. Adds attribution column, semantic filenames, and\nchapter links. Covers all 21 chapters with images \\(Ch 0-6, 10-13,\n15-20, 22-25\\).\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(git -C /Users/yoel/Desktop/smart-tangibles-book/smart_tangibles_book diff --cached --stat)",
+      "Bash(git -C /Users/yoel/Desktop/smart-tangibles-book/smart_tangibles_book remote:*)",
+      "Bash(git -C /Users/yoel/Desktop/smart-tangibles-book/smart_tangibles_book add CLAUDE.md)",
+      "Bash(git -C:*)",
+      "Bash(git -C /Users/yoel/Desktop/smart-tangibles-book/smart_tangibles_book push)",
+      "Bash(gh repo edit:*)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:commons.wikimedia.org)"
     ]
   },
   "enableAllProjectMcpServers": true,
