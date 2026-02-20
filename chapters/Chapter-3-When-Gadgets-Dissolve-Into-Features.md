@@ -330,8 +330,8 @@ But why is this so?
 
 **¹ Smartphone GPS Evolution Timeline (Figure 3.7)**
 
-- GPS World. (2018). "The smartphone revolution."
-- National Center for Biotechnology Information. (2015). "Tracking the evolution of smartphone sensing for monitoring."
+- GPS World. (2018). "The smartphone revolution." https://www.gpsworld.com/wirelesssmartphone-revolution-9183/
+- National Center for Biotechnology Information. (2015). "Tracking the evolution of smartphone sensing for monitoring." https://pmc.ncbi.nlm.nih.gov/articles/PMC4570352/
 
 [View all Chapter 3 references with live links and archived snapshots →](https://yoelf22.github.io/manuscript/references/ch03.html)
 

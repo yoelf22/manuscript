@@ -141,9 +141,9 @@ That foundation has five layers: digital interfaces, connectivity, sensors, firm
 
 Sales figures and market share trends consolidated from:
 
-- Market.us News, "Vacuum Cleaner Statistics and Facts (2025)"
-- 36Kr, "Roborock's profit twice that of Ecovacs: Floor-cleaning robot market competition"
-- Yahoo Finance, "Roborock remains the #1 top selling robot vacuum cleaner brand"
+- Market.us News, "Vacuum Cleaner Statistics and Facts (2025)," https://www.news.market.us/vacuum-cleaner-statistics/
+- 36Kr, "Roborock's profit twice that of Ecovacs: Floor-cleaning robot market competition," https://eu.36kr.com/en/p/3271134528987524
+- Yahoo Finance, "Roborock remains the #1 top selling robot vacuum cleaner brand," https://finance.yahoo.com/news/roborock-remains-1-top-selling-054000709.html
 - IDC, "Chinese brands suck up more market share in the smart vacuum segment"
 - Vacuum Wars, "Robot vacuum market trends: Are traditional vacuums falling behind?"
 - The Robot Report, "Can iRobot bounce back? Deep concerns overshadow $127M Q2"
