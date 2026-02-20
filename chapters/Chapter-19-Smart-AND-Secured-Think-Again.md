@@ -309,9 +309,9 @@ Read about mitigation in Part 2: [<u><span>Smart Product Cyber Threat Mitigation
 
 -   BrickerBot:
 
-    -   [<u><span>The Daily Swig</span></u>](https://portswigger.net/daily-swig/iot-protocols-are-leaking-data-like-sieves?utm_source=chatgpt.com) IoT protocols are leaking data like sieves
+    -   [<u><span>The Daily Swig</span></u>](https://portswigger.net/daily-swig/iot-protocols-are-leaking-data-like-sieves) IoT protocols are leaking data like sieves
 
-    -   [<u><span>Wikipedia</span></u>](https://en.wikipedia.org/wiki/BrickerBot?utm_source=chatgpt.com) BrickerBot
+    -   [<u><span>Wikipedia</span></u>](https://en.wikipedia.org/wiki/BrickerBot) BrickerBot
 
 -   VPN filter botnet
 

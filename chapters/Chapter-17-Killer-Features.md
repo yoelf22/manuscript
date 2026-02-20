@@ -72,7 +72,7 @@ The realization: *music is now portable, personal, and private.* It wasn’t the
 
 > This hands-on introduction bypassed the need for abstract messaging. Passersby could experience the product’s essence immediately: portable, personal music. The campaign was as much demonstration as promotion, and it proved decisive in turning curiosity into demand. Within two months, Sony had sold more than 30,000 units, far exceeding expectations.
 
-[Extract from Sony Corporation. (n.d.). Sony history: The Walkman. [Sony.net](http://sony.net/). Archived from the original on June 26, 2010. Retrieved September 10, 2025, from [webarchive.org](http://webarchive.org/)]
+[Extract from Sony Corporation. (n.d.). Sony history: The Walkman. [Sony.net](http://sony.net/). Archived from the original on June 26, 2010. Retrieved September 10, 2025, from [web.archive.org](https://web.archive.org/)]
 
 ---
 
@@ -108,7 +108,7 @@ At its launch in 1984, the Macintosh’s disruptive feature was its graphical us
 
 
 
-Initially pioneered at **Xerox PARC** (Palo Alto Research Center), Steve Jobs and members of the Apple Lisa and Macintosh teams, were initiated to the concept of Graphical User Interface  (GUI) running a Xerox Alto computer – **bitmapped screen, overlapping windows, icons, and the mouse** – the building blocks of what would become the graphical user interface. ([Computer History Museum](https://computerhistory.org/blog/the-xerox-alto/), [Smithsonian](https://www.smithsonianmag.com/innovation/how-xerox-invented-modern-computers-180960168/?utm_source=chatgpt.com)).
+Initially pioneered at **Xerox PARC** (Palo Alto Research Center), Steve Jobs and members of the Apple Lisa and Macintosh teams, were initiated to the concept of Graphical User Interface  (GUI) running a Xerox Alto computer – **bitmapped screen, overlapping windows, icons, and the mouse** – the building blocks of what would become the graphical user interface. ([Computer History Museum](https://computerhistory.org/blog/the-xerox-alto/), [Smithsonian](https://www.smithsonianmag.com/innovation/how-xerox-invented-modern-computers-180960168/)).
 
 
 

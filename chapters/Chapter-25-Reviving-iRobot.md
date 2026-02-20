@@ -36,7 +36,7 @@ As these challengers advanced, iRobot’s historical advantages eroded: its once
 
 > _Weren't you surprised last week as iRobot said there was “substantial doubt” about it as a “going concern”?_
 
-At the [<u><span>announcement</span></u>](https://arstechnica.com/gadgets/2025/03/irobot-says-there-is-substantial-doubt-about-it-as-a-going-concern/), iRobot ([<u><span>IRBT</span></u>](https://finance.yahoo.com/quote/IRBT/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACyHRTIezVoWABP7pduQUmavFkumHH5qK9jsrCOV7vo7o5yvqQC9E-F6O-DUlmiMTEqP8wE9pQ8ME8UG-_TGidBu4IZY7h54OVfjoXnH5grJYuVe8xZ5HcH9o4ZnYvVJ13q1ZZdS3T07dIeg08_1YfqA8dU5QevxHCjhEtHhtT5I)), maker of Roomba vacuum cleaners and Braava mopping robots, said it faced an uncertain future, warning investors of “substantial doubt” about its viability after the failed $1.7 billion Amazon acquisition.
+At the [<u><span>announcement</span></u>](https://arstechnica.com/gadgets/2025/03/irobot-says-there-is-substantial-doubt-about-it-as-a-going-concern/), iRobot ([<u><span>IRBT</span></u>](https://finance.yahoo.com/quote/IRBT/)), maker of Roomba vacuum cleaners and Braava mopping robots, said it faced an uncertain future, warning investors of “substantial doubt” about its viability after the failed $1.7 billion Amazon acquisition.
 
 The company has cut 50% of its workforce, seen a 47% revenue drop in Q4, and is exploring strategic alternatives, including refinancing or sale.
 
@@ -264,7 +264,7 @@ Originally meant to strengthen the hardware offering, opening the App Store up t
 
 Another use-case, although detached from a hardware offering is facebook market. This case is interesting because of its local orientation. Most pre-owned products on the market are shown based on geo-location vicinity.
 
--   With Global Gross Merchandise Volume (GMV) of $26 billion in transactions In 2022, and an estimated Return on Ad Spend (ROAS - a common benchmark for Facebook Ads) of 3:1, Facebook Marketplace sellers [<u><span>might have spent around $8.67 billion on ads</span></u>](https://savemyleads.com/blog/other/what-is-the-average-roas-for-facebook-ads?utm_source=chatgpt.com).
+-   With Global Gross Merchandise Volume (GMV) of $26 billion in transactions In 2022, and an estimated Return on Ad Spend (ROAS - a common benchmark for Facebook Ads) of 3:1, Facebook Marketplace sellers [<u><span>might have spent around $8.67 billion on ads</span></u>](https://savemyleads.com/blog/other/what-is-the-average-roas-for-facebook-ads).
 
 -   If we attribute 50% of this activity to the U.S. market (given its significant user base), the estimated ad spend by U.S. sellers would be approximately $4.34 billion for facebook market in the US
 

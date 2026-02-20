@@ -124,7 +124,7 @@ These practices are aligned with [<u><span>FTC guidance</span></u>](https://www.
 
 - ###### **Examples:**
 
-  -   [**<u><span>ETSI EN 303 645</span></u>**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf&ved=2ahUKEwidsdPJ6aaNAxW4MDQIHaZCOm8QFnoECAoQAQ&usg=AOvVaw1HKW4L2ShvvNyWbGEbuQ28): This is a globally applicable standard for consumer IoT cyber security. It covers all consumer IoT devices while establishing a good security baseline..
+  -   [**<u><span>ETSI EN 303 645</span></u>**](https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf): This is a globally applicable standard for consumer IoT cyber security. It covers all consumer IoT devices while establishing a good security baseline..
 
   -   [**<u><span>US Cyber Trust Mark</span></u>**](https://www.fcc.gov/CyberTrustMark): A voluntary FCC-led labeling initiative launched in 2023 to help consumers identify compliant, secure IoT devices.
 
@@ -252,6 +252,6 @@ These practices are aligned with [<u><span>FTC guidance</span></u>](https://www.
 
   -   **Mozilla Foundation** publishes an annual [**<u><span>Privacy Not Included</span></u>**](https://www.mozillafoundation.org/en/privacynotincluded/) report to spotlight ethical gaps in consumer devices.
 
-  -   [**<u><span>Framework Laptop</span></u>**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://frame.work/%3Fsrsltid%3DAfmBOooLUbPTVGYhD9zvzMyop4tjF1MH0wi8xJRjjHJKhs2AvV2A-FvY&ved=2ahUKEwiWhoqE9aaNAxXQKDQIHXM7MNgQFnoECAsQAQ&usg=AOvVaw0rk_5Q36h3fOcdyxynEGN_) and [**<u><span>Fairphone</span></u>**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fairphone.com/&ved=2ahUKEwiHsoCU9aaNAxWYITQIHa7GMOsQFnoECBAQAQ&usg=AOvVaw0QXxgTcYex_b0x7n_MjZ5T) embody repairability, transparency, and ethical sourcing in product design.
+  -   [**<u><span>Framework Laptop</span></u>**](https://frame.work/) and [**<u><span>Fairphone</span></u>**](https://www.fairphone.com/) embody repairability, transparency, and ethical sourcing in product design.
 
-  -   [**<u><span>Apple’s App Tracking Transparency</span></u>**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://developer.apple.com/documentation/apptrackingtransparency&ved=2ahUKEwju67Oi9aaNAxWLDTQIHZskNikQFnoECA4QAQ&usg=AOvVaw2N-ozC716J7qPyUmpMwu_X) lets users deny cross-app tracking - reflecting a growing demand for ethical default settings.
+  -   [**<u><span>Apple’s App Tracking Transparency</span></u>**](https://developer.apple.com/documentation/apptrackingtransparency) lets users deny cross-app tracking - reflecting a growing demand for ethical default settings.
