@@ -51,7 +51,7 @@
       "date": "",
       "source": "bolt-data.com",
       "url": "https://www.bolt-data.com/customer-success/quench-usa-inc",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20260116211715/https://www.bolt-data.com/customer-success/quench-usa-inc",
       "type": "web-article",
       "context": "inline"
     }
@@ -143,7 +143,7 @@
       "date": "",
       "source": "silabs.com",
       "url": "https://www.silabs.com/wireless/series-3-wireless-platform",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20251122160532/https://www.silabs.com/wireless/series-3-wireless-platform",
       "type": "web-article",
       "context": "inline"
     },
@@ -171,7 +171,7 @@
     },
     {
       "id": "ref-ch10-005",
-      "title": "Google Coral NPU",
+      "title": "Google Coral",
       "authors": "",
       "date": "",
       "source": "developers.google.com",
@@ -466,7 +466,7 @@
       "date": "",
       "source": "theroadtlv.com",
       "url": "https://www.theroadtlv.com/post/product-management-for-the-physical-world-part-ii",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20250120203139/https://www.theroadtlv.com/post/product-management-for-the-physical-world-part-ii",
       "type": "web-article",
       "context": "inline"
     }
@@ -780,7 +780,7 @@
       "date": "",
       "source": "patents.google.com",
       "url": "https://patents.google.com/patent/US7812826B2/en",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20230511174029/https://patents.google.com/patent/US7812826B2/en",
       "type": "patent",
       "context": "inline"
     },
@@ -982,7 +982,7 @@
       "date": "",
       "source": "theroadtlv.com",
       "url": "https://www.theroadtlv.com/post/smart-and-secured-think-again-part2",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20260120214052/https://www.theroadtlv.com/post/smart-and-secured-think-again-part2",
       "type": "web-article",
       "context": "inline"
     },
@@ -999,7 +999,7 @@
     },
     {
       "id": "ref-ch19-006",
-      "title": "<u><span>\\\"Smart Tangibles\\\", the book, is due 2026. You can read about it here</span></u>",
+      "title": "<u><span>\\\\\\\"Smart Tangibles\\\\\\\", the book, is due 2026. You can read about it here</span></u>",
       "authors": "",
       "date": "",
       "source": "theroadtlv.com",
@@ -1048,7 +1048,7 @@
       "date": "",
       "source": "thehackernews.com",
       "url": "https://thehackernews.com/2018/05/vpnfilter-router-hacking.html",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20260119202905/https://thehackernews.com/2018/05/vpnfilter-router-hacking.html",
       "type": "web-article",
       "context": "inline"
     },
@@ -1136,7 +1136,7 @@
       "date": "",
       "source": "abcnews.go.com",
       "url": "https://abcnews.go.com/US/ring-security-camera-hacks-homeowners-subjected-racial-abuse/story?id=67679790",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20251023122419/https://abcnews.go.com/US/ring-security-camera-hacks-homeowners-subjected-racial-abuse/story?id=67679790",
       "type": "web-article",
       "context": "inline"
     },
@@ -1208,7 +1208,7 @@
     },
     {
       "id": "ref-ch19-025",
-      "title": "<u><span>Huawei Says US Sanctions Will Reduce Revenue by $30 Billion</span></u>",
+      "title": "<u><span>Wired article</span></u>",
       "authors": "",
       "date": "",
       "source": "wired.com",
@@ -1259,7 +1259,7 @@
       "date": "",
       "source": "evergreater.en.made-in-china.com",
       "url": "https://evergreater.en.made-in-china.com/product/lOrEMLhCXtWD/China-Adhesive-Scratch-off-Red-Rolls-of-Anti-Tamper-Evident-Seal-Security-Stickers-Scratch-Stickers.html",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20250811004823/https://evergreater.en.made-in-china.com/product/lOrEMLhCXtWD/China-Adhesive-Scratch-off-Red-Rolls-of-Anti-Tamper-Evident-Seal-Security-Stickers-Scratch-Stickers.html",
       "type": "web-article",
       "context": "inline"
     },
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "ref-ch20-010",
-      "title": "**<u><span>FDA guidance</span></u>**",
+      "title": "<u><span>Federal Trade Commission</span></u>",
       "authors": "",
       "date": "",
       "source": "ftc.gov",
@@ -1481,7 +1481,7 @@
       "date": "",
       "source": "cfr.org",
       "url": "https://www.cfr.org/report/securing-5g-networks",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20250918003534/https://www.cfr.org/report/securing-5g-networks",
       "type": "report",
       "context": "inline"
     },
@@ -1542,7 +1542,7 @@
     },
     {
       "id": "ref-ch21-009",
-      "title": "<u><span>\\\"Smart Tangibles\\\", the book, is due 2026. You can read about it here</span></u>",
+      "title": "<u><span>\\\\\\\"Smart Tangibles\\\\\\\", the book, is due 2026. You can read about it here</span></u>",
       "authors": "",
       "date": "",
       "source": "theroadtlv.com",
@@ -1962,7 +1962,7 @@
       "date": "",
       "source": "therobotreport.com",
       "url": "https://www.therobotreport.com/can-irobot-bounce-back-deep-concerns-overshadow-127m-q2/",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20251221221908/https://www.therobotreport.com/can-irobot-bounce-back-deep-concerns-overshadow-127m-q2/",
       "type": "report",
       "context": "inline"
     },
@@ -2006,7 +2006,7 @@
       "date": "",
       "source": "statista.com",
       "url": "https://www.statista.com/statistics/731469/irobot-revenue-worldwide/",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20231205163922/https://www.statista.com/statistics/731469/irobot-revenue-worldwide/",
       "type": "report",
       "context": "inline"
     }
@@ -2030,7 +2030,7 @@
       "date": "",
       "source": "dpreview.com",
       "url": "https://www.dpreview.com/articles/7036163416/the-rise-and-fall-of-the-compact-camera",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20250220134533/https://www.dpreview.com/articles/7036163416/the-rise-and-fall-of-the-compact-camera",
       "type": "web-article",
       "context": "inline"
     },
@@ -2447,7 +2447,7 @@
       "date": "",
       "source": "resources.lora-alliance.org",
       "url": "https://resources.lora-alliance.org/home/lora-alliance-updates-lorawan-regional-parameters-to-improve-smart-city-building-homes-industrial-and-logistics-iot-performance",
-      "archive_url": null,
+      "archive_url": "http://web.archive.org/web/20260118042329/https://resources.lora-alliance.org/home/lora-alliance-updates-lorawan-regional-parameters-to-improve-smart-city-building-homes-industrial-and-logistics-iot-performance",
       "type": "report",
       "context": "inline"
     },
